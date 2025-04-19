@@ -1,0 +1,1394 @@
+Found 135 potential project groups.
+
+--- Project Group 1 ---
+GitHub URL: https://github.com/DEV-RIOS/SnailAI
+Title: Snail Rendering
+Award: BEST OVERALL HACK:
+Summary: Team: Bob Frederick / RIOS , Jimmy Torres / RIOS , Oscar Borgström / Foster + Partners , Chu Ding, PE, PhD / RunToSolve , Kohei Hayashi / Shimizu , Sheng Zheng , PE / Martin/Martin , Kojiro Suzuki / Shimizu , Yutaka Iribe / Shimizu , Tamaho Shigemura / Algorithm Design Lab
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST OVERALL HACK: Snail Rendering
+  Paragraph 2: "Realtime" AI imagination for your Rhino model, all within a Rhino viewport, activated via a Display Mode.
+  Paragraph 3: Team: Bob Frederick / RIOS, Jimmy Torres / RIOS, Oscar Borgström / Foster + Partners, Chu Ding, PE, PhD / RunToSolve, Kohei Hayashi / Shimizu, Sheng Zheng, PE / Martin/Martin, Kojiro Suzuki / Shimizu, Yutaka Iribe / Shimizu, Tamaho Shigemura / Algorithm Design Lab
+------------------------------
+
+--- Project Group 2 ---
+GitHub URL: https://github.com/graphhop
+Title: Graph-Hop
+Award: BEST COLLABORATIVE HACK:
+Summary: Team: Alex Schiftner / ShapeDiver , Alexis Kotzambasis / LPA , Colin Matthews / Ennead Architects , Cullen Sarles / Ryan Companies , Justin Jao / StructureCraft , Ka Kit Chiu / Mithun , Karen Kuo / Corgan , Konrad Zaremba / Kolega , Nicholas Martino / StructureCraft , Peter Zhang / Corgan
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST COLLABORATIVE HACK: Graph-Hop
+  Paragraph 2: This project is designed to consume Grasshopper files, parse their component data, and store the information in a TinkerPop graph database. This allows for version control and analysis of Grasshopper files.
+  Paragraph 3: Team: Alex Schiftner / ShapeDiver, Alexis Kotzambasis / LPA, Colin Matthews / Ennead Architects, Cullen Sarles / Ryan Companies, Justin Jao / StructureCraft, Ka Kit Chiu / Mithun, Karen Kuo / Corgan, Konrad Zaremba / Kolega, Nicholas Martino / StructureCraft, Peter Zhang / Corgan
+------------------------------
+
+--- Project Group 3 ---
+GitHub URL: https://github.com/ssajedi/upzone
+Title: UpZone
+Award: BEST BREAKOUT TEAM & HACKER’S CHOICE:
+Summary: Team: Anish Reddy / Perkins & Will , Eddy Lopez / LPA , Elcin Ertugrul / Thornton Tomasetti CORE studio , Georgios Athanasopoulos / Thornton Tomasetti CORE studio , Omid Sajedi / Thornton Tomasetti CORE studio , Susanna van de Graaf / Thornton Tomasetti , Mahsa Dehghani / Corgan , Joyce Hanlon / Snøhetta , Jihoon Park / Walter P Moore , Jari Prachasartta / KPF
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST BREAKOUT TEAM & HACKER’S CHOICE: UpZone
+  Paragraph 2: UpZone is your one-click solution to modeling your NYC lot's buildable zoning volume. The app searches multi-thousand-page zoning resolution documents and city websites, identifies relevant zoning requirements, and generates a user-friendly 3D model for architects to hit the ground running with design. Developed by a diverse team of architects, software developers, machine learning engineers, computational designers, and structural engineers. It combines large language models with spatial algorithms to turn complex, interconnected data into a clean, legible 3D model.
+  Paragraph 3: Team: Anish Reddy / Perkins & Will, Eddy Lopez / LPA, Elcin Ertugrul / Thornton Tomasetti CORE studio, Georgios Athanasopoulos / Thornton Tomasetti CORE studio, Omid Sajedi / Thornton Tomasetti CORE studio, Susanna van de Graaf / Thornton Tomasetti, Mahsa Dehghani / Corgan, Joyce Hanlon / Snøhetta, Jihoon Park / Walter P Moore, Jari Prachasartta / KPF
+------------------------------
+
+--- Project Group 4 ---
+GitHub URL: https://github.com/team-speckle-automation/SPLASH
+Title: Splash
+Award: No Award Found
+Summary: Team: Stephen Prendergast ​ / SOM , Nathan Terranova ​ / Corgan , Wade Vollink / Ryan Companies ​ , Kent Pretorius ​ / Fast+Epp , Erika Santos / AECOM ​ , Julio Sarachaga ​ / Lagarsoft LLC , Agustina Aboy ​, Laszlo Andrasi / Perkins & Will​ , Anik Alam / ​ Mithun
+All Paragraphs Text in this group (3):
+  Paragraph 1: Splash
+  Paragraph 2: This project aims to streamline model analysis and enhance feedback processes for AEC projects. By integrating Speckle, we provide stakeholders easy web-based access to 3D model analysis results that update in real-time!. This setup empowers non-technical stakeholders to review analysis outputs and provide feedback directly, without needing specialized software like Revit or Rhino.
+  Paragraph 3: Team: Stephen Prendergast​ / SOM, Nathan Terranova​ / Corgan, Wade Vollink / Ryan Companies​, Kent Pretorius​ / Fast+Epp, Erika Santos / AECOM​, Julio Sarachaga​ / Lagarsoft LLC, Agustina Aboy ​, Laszlo Andrasi / Perkins & Will​, Anik Alam / ​Mithun
+------------------------------
+
+--- Project Group 5 ---
+GitHub URL: https://github.com/murra133/EarthToRhino
+Title: Earth to Rhino
+Award: No Award Found
+Summary: Team: Paris Nikitidis / Foster + Partners , Sergey Pigach / Thornton Tomasetti CORE studio , Alfredo Chavez / Heatherwick studio , Quoc Dang / KPF , Joanna Sabak / Heatherwick studio , Weiting Kong / Thornton Tomasetti , Jeroen Janssen / Thornton Tomasetti CORE studio , Brian Murray / Hathaway Dinwiddie , Nico Azel / Thornton Tomasetti CORE studio , Jason Yang / Thornton Tomasetti CORE studio
+All Paragraphs Text in this group (3):
+  Paragraph 1: Earth to Rhino
+  Paragraph 2: EarthToRhino is a bridge between Cesium, a 3d Geospatial platform, and McNeel's Rhinoceros 3D through Grasshopper.
+  Paragraph 3: Team: Paris Nikitidis / Foster + Partners, Sergey Pigach / Thornton Tomasetti CORE studio, Alfredo Chavez / Heatherwick studio, Quoc Dang / KPF, Joanna Sabak / Heatherwick studio, Weiting Kong / Thornton Tomasetti, Jeroen Janssen / Thornton Tomasetti CORE studio, Brian Murray / Hathaway Dinwiddie, Nico Azel / Thornton Tomasetti CORE studio, Jason Yang / Thornton Tomasetti CORE studio
+------------------------------
+
+--- Project Group 6 ---
+GitHub URL: https://github.com/lukegehron/NLP-to-3DBuildings
+Title: D-AI-LOG
+Award: No Award Found
+Summary: Team: Alireza Memarian / Memo.ai , Christopher Diggins / Ara3d , Francisco Maranchello / Everse , Jacob Sam / NYIT , Luke Gehron, Paweł Sapiecha / Olson Kundig , Taro Narahara / NJIT , Valentin Noves / Everse
+All Paragraphs Text in this group (3):
+  Paragraph 1: D-AI-LOG
+  Paragraph 2: This project demonstrates how to create a FastAPI-based API that interacts with an OpenAI assistant. The API allows you to retrieve the assistant, send messages, and receive responses, all using OpenAI’s Assistant and Thread APIs. It receives instructions to generate a building and returns the building description in a JSON format.
+  Paragraph 3: Team: Alireza Memarian / Memo.ai, Christopher Diggins / Ara3d, Francisco Maranchello / Everse , Jacob Sam / NYIT, Luke Gehron, Paweł Sapiecha / Olson Kundig, Taro Narahara / NJIT, Valentin Noves / Everse
+------------------------------
+
+--- Project Group 7 ---
+GitHub URL: https://github.com/v-machine/Nolli-Cannolli
+Title: Nolli Cannolli
+Award: No Award Found
+Summary: Team: Vincent Mai / NBBJ , Hadidi Hosni / Foster + Partners , Mahshid Moghadasi / Stantec , Jacob Russo / SOM , Eesha Jain / Thornton Tomasetti CORE studio
+All Paragraphs Text in this group (3):
+  Paragraph 1: Nolli Cannolli
+  Paragraph 2: N-C is a project that fine-tunes a diffusion model on Nolli maps to easily generate baseline geometry with diverse urban form. The model creates images that hybridize the urban fabric from any city and can be adapted to a specific site boundary. These images feed into a Grasshopper script to generate 3d massing with customizable density.
+  Paragraph 3: Team: Vincent Mai / NBBJ, Hadidi Hosni / Foster + Partners, Mahshid Moghadasi / Stantec, Jacob Russo / SOM, Eesha Jain / Thornton Tomasetti CORE studio
+------------------------------
+
+--- Project Group 8 ---
+GitHub URL: https://github.com/Kyungho0511/3d-scan-with-spatial-analysis/tree/ms_pythonCode
+Title: From AEC to your HOME!
+Award: No Award Found
+Summary: Team: Mark Skepasts / StructureCraft , Kyungho Lee / KPF , Amber Su / Cornell University , Curtis Xu / Cornell University , Hossein Zargar / Walter P Moore , Vahid Koliyaee / Zahner , Sandeep Jalui / Walter P Moore , Rimjhim Singh / Walter P Moore
+All Paragraphs Text in this group (3):
+  Paragraph 1: From AEC to your HOME!
+  Paragraph 2: Tools for preprocessing point clouds for analysis in Grasshopper using Ladybug and for web visualization with React and Three.js. The preprocessing pipeline cleans, transforms, and prepares spatial data, making it compatible with computational design workflows and interactive 3D visualization.
+  Paragraph 3: Team: Mark Skepasts / StructureCraft, Kyungho Lee / KPF, Amber Su / Cornell University, Curtis Xu / Cornell University, Hossein Zargar / Walter P Moore, Vahid Koliyaee / Zahner, Sandeep Jalui / Walter P Moore, Rimjhim Singh / Walter P Moore
+------------------------------
+
+--- Project Group 9 ---
+GitHub URL: https://github.com/jacksonjunelee/AEC_Hackathon_qrkiller
+Title: IMPRINT
+Award: No Award Found
+Summary: Team: Anthony Samaha / Perkins & Will , Matthijs Beekman / Viktor , Nehansh Saxena / SLAM , Alan Cation / AC Design Lab, Jackson Lee / Department of Labor, S ophie Moore / Thornton Tomasetti CORE studio , Sidharth Jain / UMass Amherst , Travis Potter / DLB Associates , Praneet Mathur / Karamba3D , Nirvik Saha / Perkins & Will
+All Paragraphs Text in this group (3):
+  Paragraph 1: IMPRINT
+  Paragraph 2: The "Imprint" project presents a solution to replace QR codes with embedded, design-integrated visual links. Criticizing QR codes as disruptive and unreadable, it utilizes computer vision and image segmentation across platforms like web frontends, device frontends, and a Revit add-in to embed information directly within images. By generating data embeddings from processed images and employing techniques like image augmentation and feature extraction, Imprint enables drawings and photos to function as interactive, linkable elements—eliminating the need for traditional QR codes.
+  Paragraph 3: Team: Anthony Samaha / Perkins & Will, Matthijs Beekman / Viktor, Nehansh Saxena / SLAM, Alan Cation / AC Design Lab, Jackson Lee / Department of Labor, Sophie Moore / Thornton Tomasetti CORE studio, Sidharth Jain / UMass Amherst, Travis Potter / DLB Associates, Praneet Mathur / Karamba3D, Nirvik Saha / Perkins & Will
+------------------------------
+
+--- Project Group 10 ---
+GitHub URL: https://github.com/SHL-Digital-Practice/eq-backend
+Title: EQUALIZER
+Award: No Award Found
+Summary: Team: Daniel Boba / Perkins & Will , Victor Barbosa / SHL , Kart Gopinath / Perkins & Will , Mario Romero / Perkins & Will , Gigi Singh / Perkins & Will , Nick Cameron / Perkins & Will , Zuzanna Czapla / SHL
+All Paragraphs Text in this group (2):
+  Paragraph 1: EQUALIZER
+  Paragraph 2: Team: Daniel Boba / Perkins & Will, Victor Barbosa / SHL, Kart Gopinath / Perkins & Will, Mario Romero / Perkins & Will, Gigi Singh / Perkins & Will, Nick Cameron / Perkins & Will, Zuzanna Czapla / SHL
+------------------------------
+
+--- Project Group 11 ---
+GitHub URL: https://github.com/ssajedi/FAM-JAM
+Title: FAM JAM
+Award: BEST OVERALL HACK:
+Summary: Team: Nehansh Saxena / SLAM , Frank (Xu) Li / Saiful Bouquet , Omid Sajedi / CORE studio
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST OVERALL HACK: FAM JAM
+  Paragraph 2: FAM JAM is a Revit Plugin developed during the 2024 AECTech Hackathon. We created a solution aimed at simplifying specification sheet management for Revit, targeting architectural workflows. Fam Jam allows users to seamlessly integrate Revit families with specification sheets, addressing a common bottleneck by turning families into specs, making the process more intuitive and efficient.
+  Paragraph 3: Team: Nehansh Saxena / SLAM, Frank (Xu) Li / Saiful Bouquet, Omid Sajedi / CORE studio
+------------------------------
+
+--- Project Group 12 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Team: James Coleman / Sumpoint.io , Soomeen Hahm / USC , Poorva Joshi / Morphosis , Brian Murray / Hathaway - Dinwiddie , Sergey Pigach / C ORE studio , Callum Sykes / McNeel
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST COLLABORATIVE HACK: Magic Tape
+  Paragraph 2: The Magic Tape is an electronic measurement solution based on a simple smartphone app and an affordable electronic measurement device. It's designed to enhance the precision of AR-based systems on construction sites by providing real-time, accurate measurements.
+  Paragraph 3: Team: James Coleman / Sumpoint.io, Soomeen Hahm / USC, Poorva Joshi / Morphosis, Brian Murray / Hathaway - Dinwiddie, Sergey Pigach / CORE studio, Callum Sykes / McNeel
+------------------------------
+
+--- Project Group 13 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Team: Sophie Moore / CORE studio , Ryland Chase / USC , Brandon Yu , Will Buckser-Schulz / USC , Jacob Blitzer / KHS&S Contractors
+All Paragraphs Text in this group (3):
+  Paragraph 1: Vibe Scout
+  Paragraph 2: VibeScout is an application that lets users find areas in LA that are similar to their input. All you have to do is input an address, and the application will return the top five most similar areas based on properties such as green spaces, restaurants, cultural attractions, and much more.
+  Paragraph 3: Team: Sophie Moore / CORE studio, Ryland Chase / USC, Brandon Yu, Will Buckser-Schulz / USC, Jacob Blitzer / KHS&S Contractors
+------------------------------
+
+--- Project Group 14 ---
+GitHub URL: https://github.com/CruisingCtrl/AECroom107
+Title: Auto Park
+Award: No Award Found
+Summary: Team: Eesha Jain / CORE studio , Lucien du Chaxel / Royal 4 Systems , Danny Tran / Royal 4 Systems , Brendan Wong / Royal 4 Systems , Ariana Chen / Walter P Moore , Srikrishnan Madhavan / Thornton Tomasetti
+All Paragraphs Text in this group (3):
+  Paragraph 1: Auto Park
+  Paragraph 2: Auto Park is a study that aims to streamline the parking lot design process by automating 3D model generation using client-provided 2D data.
+  Paragraph 3: Team: Eesha Jain / CORE studio, Lucien du Chaxel / Royal 4 Systems, Danny Tran / Royal 4 Systems, Brendan Wong / Royal 4 Systems, Ariana Chen / Walter P Moore, Srikrishnan Madhavan / Thornton Tomasetti
+------------------------------
+
+--- Project Group 15 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Team: Shirley Zhang / ARUP , Anik Alam / Mithun , Rahman Ismail / Mithun
+All Paragraphs Text in this group (3):
+  Paragraph 1: Endless Bytes
+  Paragraph 2: Endless Bytes, or Your Data Needs a Friend, lets users quickly query metrics and summaries of models from Autodesk Forma using GPT 4.0.
+  Paragraph 3: Team: Shirley Zhang / ARUP, Anik Alam / Mithun, Rahman Ismail / Mithun
+------------------------------
+
+--- Project Group 16 ---
+GitHub URL: https://github.com/AGranosik/TheCanvas
+Title: C
+Award: BEST OVERALL HACK:
+Summary: Team: Havard Hoiby / Autodesk, Ashkan Rezaee / Henning Larsen, Mrinalini Verma / OJB Landscape Architecture, Damian Granosik / Henning Larsen, Konrad Zaremba /  Kolega.Space, Adrian Granosik
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST OVERALL HACK: C
+  Paragraph 2: A sharable analysis application where designers push models and analysis from RHINO Software to Speckle. Speckle's new Automate picks up the model for further analysis and then the designer can browse, inspect and share direct links with stakeholders the results on a simple web page, no login required.
+  Paragraph 3: Team: Havard Hoiby / Autodesk, Ashkan Rezaee / Henning Larsen, Mrinalini Verma / OJB Landscape Architecture, Damian Granosik / Henning Larsen, Konrad Zaremba /  Kolega.Space, Adrian Granosik
+------------------------------
+
+--- Project Group 17 ---
+GitHub URL: https://github.com/EdShapeDiver/CoffeeBridges
+Title: Bridges for Coffee
+Award: BEST COLLABORATIVE HACK:
+Summary: Team: Edwin Hernandez / Shapediver, Giovanni Consiglio / ACPV Architects, Kan Shindo / Waseda University, Kees Leemeijer / Vertico, Matthijs Beekman / VIKTOR, Pablo Nistal / INGECID, Sanjay Joshi / AFRY, Volodymyr Opanasiuk / REDD
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST COLLABORATIVE HACK: Bridges for Coffee
+  Paragraph 2: From just 2 points on a map to a 3d-printable bridge concept with design and production models, AI-enabled rendering and documentation in PDF. All so that you can get to your morning coffee faster
+  Paragraph 3: Team: Edwin Hernandez / Shapediver, Giovanni Consiglio / ACPV Architects, Kan Shindo / Waseda University, Kees Leemeijer / Vertico, Matthijs Beekman / VIKTOR, Pablo Nistal / INGECID, Sanjay Joshi / AFRY, Volodymyr Opanasiuk / REDD
+------------------------------
+
+--- Project Group 18 ---
+GitHub URL: https://github.com/peng-an-chen/aectech-hackathon-2024-tag-it
+Title: Tag It
+Award: BEST OPEN SOURCE HACK:
+Summary: Team: Ali Yerdel / Interior Architect, Elton Gjata / Perkins & Will, Jeroen Janssen / Thornton Tomasetti, Michele Pescatore / AIA Life Designers, Peng-An Chen / Strabag, Victor Wanderley Barbosa / Schmidt Hammer Lassen
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST OPEN SOURCE HACK: Tag It
+  Paragraph 2: Real time markups from PDF to BIM. Improving markups and collaboration.
+  Paragraph 3: Team: Ali Yerdel / Interior Architect, Elton Gjata / Perkins & Will, Jeroen Janssen / Thornton Tomasetti, Michele Pescatore / AIA Life Designers, Peng-An Chen / Strabag, Victor Wanderley Barbosa / Schmidt Hammer Lassen
+------------------------------
+
+--- Project Group 19 ---
+GitHub URL: https://github.com/viktor-platform/aectech-spain-1
+Title: Open BID
+Award: No Award Found
+Summary: Team: Andrew Blasdale / Gropyus, Ayse Esin Durmaz / Gropyus, Florencia Feldsberg, Xavier Garnavault, Sylvain van der Meer / VIKTOR, Saverio Camillo Saviello / ACPV
+All Paragraphs Text in this group (3):
+  Paragraph 1: Open BID
+  Paragraph 2: A marketplace that clients and designers can upload their projects, and receive back transparent cost bidding from multiple suppliers, specific for that particular building part or contract, and review it within their design model.
+  Paragraph 3: Team: Andrew Blasdale / Gropyus, Ayse Esin Durmaz / Gropyus, Florencia Feldsberg, Xavier Garnavault, Sylvain van der Meer / VIKTOR, Saverio Camillo Saviello / ACPV
+------------------------------
+
+--- Project Group 20 ---
+GitHub URL: https://github.com/shapediver/SausageDog_AECTechBarcelona2024
+Title: Sausage Dog
+Award: No Award Found
+Summary: Simple web tool for running multiobjective optimization on GH models of a hot dog. Ability to dynamically plug-in a complex models to the web solver with segregation of the Design Space from the GA-Solver (cloud based) and integration of an external NSGA-II library into Shapediver AppBuilder.
+All Paragraphs Text in this group (3):
+  Paragraph 1: Sausage Dog
+  Paragraph 2: Simple web tool for running multiobjective optimization on GH models of a hot dog. Ability to dynamically plug-in a complex models to the web solver with segregation of the Design Space from the GA-Solver (cloud based) and integration of an external NSGA-II library into Shapediver AppBuilder.
+  Paragraph 3: Team: Mathieu Huard / Shapediver, Marijn Luijmes / LEVS architecten. Cristiano Piagnerelli / ACPV, Alexander Schiftner / Shapediver, Felix Wirth / Eller + Eller Architekten
+------------------------------
+
+--- Project Group 21 ---
+GitHub URL: https://github.com/sergiomorph/Geocoris
+Title: Geocoris
+Award: No Award Found
+Summary: Bi-directional Unity (Meta Quest 3) - Rhino + Grasshopper connection. Provide a real time tool, based on augmented reality, for 3D sketching and previewing scalable parametric models while allowing computational designers to update and modify their real-time streamed Grasshopper definitions.
+All Paragraphs Text in this group (3):
+  Paragraph 1: Geocoris
+  Paragraph 2: Bi-directional Unity (Meta Quest 3) - Rhino + Grasshopper connection. Provide a real time tool, based on augmented reality, for 3D sketching and previewing scalable parametric models while allowing computational designers to update and modify their real-time streamed Grasshopper definitions.
+  Paragraph 3: Team: Orestis Pavlidis / Vertico, Victoria Fedorova / Vertigo, Alexander López, Leon Brohmann / Morph Estudio, Jon Tolosa / Morph Estudio, Sergio Rodríguez
+------------------------------
+
+--- Project Group 22 ---
+GitHub URL: https://github.com/Licini/SmartTutorial
+Title: Smart Tutorial
+Award: No Award Found
+Summary: A web app to make interactive, ‘intelligent’ tutorials based on your codebase and domain-specific knowledge. Write a minimal tutorial with general key points, add links to your codebase repo, and let SmartTutorial generate for you a complete and detailed tutorial based on your programming domain.
+All Paragraphs Text in this group (3):
+  Paragraph 1: Smart Tutorial
+  Paragraph 2: A web app to make interactive, ‘intelligent’ tutorials based on your codebase and domain-specific knowledge. Write a minimal tutorial with general key points, add links to your codebase repo, and let SmartTutorial generate for you a complete and detailed tutorial based on your programming domain.
+  Paragraph 3: Team: Milovann Yanatchkov / BIMriver, Li Chen / BRG, Soroush Garivani / The Circular Factory
+------------------------------
+
+--- Project Group 23 ---
+GitHub URL: https://github.com/maxdumas/aectech-hackathon
+Title: All The Way Down
+Award: BEST OVERALL HACK:
+Summary: Team: Chau Nguyen / Foster + Partners, Keyan Rahimzadeh / Grimshaw, Max Dumas / Ulama, Nathan Barnes / A Zahner, Patryk Wozniczka / PJW, Sarang Pramode / Ulama, Tyce Herrman / Ulama
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST OVERALL HACK: All The Way Down
+  Paragraph 2: AllTheWayDown allows for managing dependencies within design workflows, which decreases length of time between design iterations, introduces Git-based version control, and eliminates discrepancies between different stages of design. Initially, AllTheWayDown works for Grasshopper script graphs and Rhino models. Future iterations will expand to other design tools and data inputs.
+  Paragraph 3: Team: Chau Nguyen / Foster + Partners, Keyan Rahimzadeh / Grimshaw, Max Dumas / Ulama, Nathan Barnes / A Zahner, Patryk Wozniczka / PJW, Sarang Pramode / Ulama, Tyce Herrman / Ulama
+------------------------------
+
+--- Project Group 24 ---
+GitHub URL: https://github.com/rhino-anywhere
+Title: Rhino Anywhere
+Award: BEST COLLABORATIVE HACK:
+Summary: Team: Callum Sykes / Structurecraft, Alfredo Chavez / Heatherwick Studio, Jo Kamm / Dimensional Innovations, Dan Cascaval / Structurecraft, Eleftherios Kourkopoulos / Foster & Partners, Emil Poulsen / Thornton Tomasetti, Josh Grift / StructureCraft, Justyna Szychowska / KPF, Kyle Slugg-Urbino / Stride Geospatial, Sergey Pigach / Thornton Tomasetti
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST COLLABORATIVE HACK: Rhino Anywhere
+  Paragraph 2: Rhino Anywhere is a framework that enables high definition streaming of a Rhino Model Viewport to the web. This allows you to reskin and interact with Rhino in any way you desire, whilst still working in the native Rhino Environment. You can create specific command sets for users.
+  Paragraph 3: Team: Callum Sykes / Structurecraft, Alfredo Chavez / Heatherwick Studio, Jo Kamm / Dimensional Innovations, Dan Cascaval / Structurecraft, Eleftherios Kourkopoulos / Foster & Partners, Emil Poulsen / Thornton Tomasetti, Josh Grift / StructureCraft, Justyna Szychowska / KPF, Kyle Slugg-Urbino / Stride Geospatial, Sergey Pigach / Thornton Tomasetti
+------------------------------
+
+--- Project Group 25 ---
+GitHub URL: https://github.com/TeamZombies/furne_frontend
+Title: FURN-E
+Award: BEST OPEN SOURCE HACK:
+Summary: Team: Sophie Moore / Thornton Tomasetti, Jaxon Fortune / Thornton Tomasetti, Pablo Herraiz / Shepley Bulfinch, Daniel Lu / NYU, Mona Mirzaie / Pickard Chilton, Ben Zuill-Smith / GDS Estimating, Christopher Smith / Promptly Technologies
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST OPEN SOURCE HACK: FURN-E
+  Paragraph 2: This Vue.js application uses the OpenAI API to generate images based on a user-provided description and presents the generated images for selection. Additionally, it displays product options based on those generated images.
+  Paragraph 3: Team: Sophie Moore / Thornton Tomasetti, Jaxon Fortune / Thornton Tomasetti, Pablo Herraiz / Shepley Bulfinch, Daniel Lu / NYU, Mona Mirzaie / Pickard Chilton, Ben Zuill-Smith / GDS Estimating, Christopher Smith / Promptly Technologies
+------------------------------
+
+--- Project Group 26 ---
+GitHub URL: https://github.com/ssajedi/SAiF-GPT
+Title: SAiF-GPT
+Award: No Award Found
+Summary: Team: Agustina Aboy / Slantis, Alexis Kotzambasis / LPA, Aman Sharma / Baker Risk, Carlos Luiz Amaral / SGH, Dan Miller / Degenkolb Engineers, Kodai Endo / Shimizu, Omid Sajedi / Thornton Tomasetti, Rintaro Yamashita / Shimizu, Samuel Winson Tanuwidjaja / Thornton Tomasetti, Sierra Davis / LPA
+All Paragraphs Text in this group (3):
+  Paragraph 1: SAiF-GPT
+  Paragraph 2: SAiF-GPT aims to provide a solution for using Chat GPT in a secure and compliant manner, even when dealing with sensitive information. To ensure that corporate policies and NDAs are respected, the code and process automate entity detection and anonymization by replacing them with analogous values. The end goal is to allow AEC industry to use AI technology like ChatGPT for document analysis while protecting confidential data.
+  Paragraph 3: Team: Agustina Aboy / Slantis, Alexis Kotzambasis / LPA, Aman Sharma / Baker Risk, Carlos Luiz Amaral / SGH, Dan Miller / Degenkolb Engineers, Kodai Endo / Shimizu, Omid Sajedi / Thornton Tomasetti, Rintaro Yamashita / Shimizu, Samuel Winson Tanuwidjaja / Thornton Tomasetti, Sierra Davis / LPA
+------------------------------
+
+--- Project Group 27 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Team: Clifton Harness / Testfit, Ryan Griege / Testfit, Dan Anthony / Join, Jules Becker / Join, Tim Ngo / Join, Shea Kusiak / Join
+All Paragraphs Text in this group (3):
+  Paragraph 1: Building Forge
+  Paragraph 2: Humanity’s only realtime construction pricing engine for planning. Integrate TestFit Schemes and  Historical Construction data in Join  for quick option evaluation
+  Paragraph 3: Team: Clifton Harness / Testfit, Ryan Griege / Testfit, Dan Anthony / Join, Jules Becker / Join, Tim Ngo / Join, Shea Kusiak / Join
+------------------------------
+
+--- Project Group 28 ---
+GitHub URL: https://github.com/SHL-Digital-Practice/the-boring-labels
+Title: Boring
+Award: No Award Found
+Summary: Team: Mostapha Sadeghipour Roudsari / Pollination, Alexander Matthias Jacobson / BIG, Victor Barbosa / Schmidt Hammer Lassen Architects, Ellen Berglund / Schmidt Hammer Lassen Architects, Daniel Boba / Perkins & Will, Jason Diammond / Perkins & Will, Nick Cameron / Perkins & Will
+All Paragraphs Text in this group (3):
+  Paragraph 1: Boring
+  Paragraph 2: Smart Real-time Naming for Your Spaces
+  Paragraph 3: Team: Mostapha Sadeghipour Roudsari / Pollination, Alexander Matthias Jacobson / BIG, Victor Barbosa / Schmidt Hammer Lassen Architects, Ellen Berglund / Schmidt Hammer Lassen Architects, Daniel Boba / Perkins & Will, Jason Diammond / Perkins & Will, Nick Cameron / Perkins & Will
+------------------------------
+
+--- Project Group 29 ---
+GitHub URL: https://github.com/czwangxtt/AEC-Hack
+Title: AECademy
+Award: No Award Found
+Summary: Team: Chenzhang Wang / HLW, Junling Zhang / KPF, Sen Zhang / Ennead Architects, Emily Guan, Alan Cation / Ennead
+All Paragraphs Text in this group (3):
+  Paragraph 1: AECademy
+  Paragraph 2: A Sketch-Based Content Retrieval System, an innovative search engine that allows users to use sketches to search for relevant content within a digital database. It is designed to interpret the attributes of the sketched input and provide results such as PDF documents, 3D models, and detailed text descriptions that closely match the sketch.
+  Paragraph 3: Team: Chenzhang Wang / HLW, Junling Zhang / KPF, Sen Zhang / Ennead Architects, Emily Guan, Alan Cation / Ennead
+------------------------------
+
+--- Project Group 30 ---
+GitHub URL: https://github.com/PickardChilton/XRVZ/tree/main
+Title: XRVZ
+Award: No Award Found
+Summary: Team: Andrew Swartzell / Pickard Chilton, James Blanchard / Flad Architects, Atharva / NBBJ, Ben Howes / Thornton Tomasetti, Attalia Brown, Martin Johnson, Ben Ferrer / Turner Construction, Magnhild Gjestvang / Autodesk
+All Paragraphs Text in this group (3):
+  Paragraph 1: XRVZ
+  Paragraph 2: Open source WebXR viewer that works on any WebXR-enabled device running in an immersive model viewer, plugging into analysis models like Forma, Hypar, or Viktor for heightened understanding of data
+  Paragraph 3: Team: Andrew Swartzell / Pickard Chilton, James Blanchard / Flad Architects, Atharva / NBBJ, Ben Howes / Thornton Tomasetti, Attalia Brown, Martin Johnson, Ben Ferrer / Turner Construction, Magnhild Gjestvang / Autodesk
+------------------------------
+
+--- Project Group 31 ---
+GitHub URL: https://github.com/snabela/AECTech2023 
+Title: COLLAB
+Award: No Award Found
+Summary: Team: Alexander Schiftner / Shapediver, Brian Stuchel / Walter P. Moore, Moustafa El-Sawy / AECOM, Georgios Athanasopoulos / Thornton Tomasetti, Nicolas Azel / Thornton Tomasetti, Murat Melek / Walter P. Moore, Stijn Jansen / VIKTOR, Wendy Chikowero / Thornton Tomasetti, Yang Xie / Degenkolb Engineer, Victor Calderon / Walter P. Moore
+All Paragraphs Text in this group (3):
+  Paragraph 1: COLLAB
+  Paragraph 2: This hackathon leverages a diverse range of tools to create a interactive structural optimization and review web applet built in Viktor.
+  Paragraph 3: Team: Alexander Schiftner / Shapediver, Brian Stuchel / Walter P. Moore, Moustafa El-Sawy / AECOM, Georgios Athanasopoulos / Thornton Tomasetti, Nicolas Azel / Thornton Tomasetti, Murat Melek / Walter P. Moore, Stijn Jansen / VIKTOR, Wendy Chikowero / Thornton Tomasetti, Yang Xie / Degenkolb Engineer, Victor Calderon / Walter P. Moore
+------------------------------
+
+--- Project Group 32 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Team: Marcel Slootweg / VIKTOR, Håvard Høiby / Autodesk, Håkon Matland / Autodesk, Mostapha Sadeghipour Roudsari / Pollination
+All Paragraphs Text in this group (3):
+  Paragraph 1: It Takes a Village
+  Paragraph 2: Why 5 platforms are better than one​
+  Paragraph 3: Team: Marcel Slootweg / VIKTOR, Håvard Høiby / Autodesk, Håkon Matland / Autodesk, Mostapha Sadeghipour Roudsari / Pollination
+------------------------------
+
+--- Project Group 33 ---
+GitHub URL: https://github.com/EZ-Script/EZRX-Scripting
+Title: Ez.Rx
+Award: No Award Found
+Summary: Team: Christopher Diggins / Ara 3D, Travis Potter / Buro Happold, Sun Lee / Handel Architects, Emma Xu / Pratt Institute, Bell Wang / Pratt Institute, Haki Sallaku / Manhattan College, Marcelo Villalba / MEGA
+All Paragraphs Text in this group (3):
+  Paragraph 1: Ez.Rx
+  Paragraph 2: EZRX is a plug-in for Rhino that helps a user use Chat GPT to create scripted Grasshopper nodes.
+  Paragraph 3: Team: Christopher Diggins / Ara 3D, Travis Potter / Buro Happold, Sun Lee / Handel Architects, Emma Xu / Pratt Institute, Bell Wang / Pratt Institute, Haki Sallaku / Manhattan College, Marcelo Villalba / MEGA
+------------------------------
+
+--- Project Group 34 ---
+GitHub URL: https://github.com/jackDang2803/FindIt
+Title: FindIT
+Award: No Award Found
+Summary: Team: Shariful Anik / Mithun, Pawel Sapiecha / Olson Kundig, Pablo Derendinger / e-Verse, Hailey Kim / ARUP, Quoc Dang / KPF
+All Paragraphs Text in this group (3):
+  Paragraph 1: FindIT
+  Paragraph 2: Forestry Identification and Navigation forDigital Imaging Transfer
+  Paragraph 3: Team: Shariful Anik / Mithun, Pawel Sapiecha / Olson Kundig, Pablo Derendinger / e-Verse, Hailey Kim / ARUP, Quoc Dang / KPF
+------------------------------
+
+--- Project Group 35 ---
+GitHub URL: https://github.com/phzx3691/WasteD-Image-Labeling
+Title: Wasted
+Award: No Award Found
+Summary: Team: Michael Zarrella / HDR, Jared Friedman / Walter P Moore, Tim Li / SHoP Architects, Gorkem Okudan / Thornton Tomasetti, Val Tzvetkov / Skanska, Brandon Perry / Thornton Tomasetti, Nezar Abraham / Thornton Tomasetti, Yutan Sun / KPF, Erika Santos / AECOM, Sheldon McLeod / SHoP Architects
+All Paragraphs Text in this group (3):
+  Paragraph 1: Wasted
+  Paragraph 2: Unlock value in existing end of service buildings. Use Reality Capture, AI and Parametric Design to define value, repurpose, and reuse.
+  Paragraph 3: Team: Michael Zarrella / HDR, Jared Friedman / Walter P Moore, Tim Li / SHoP Architects, Gorkem Okudan / Thornton Tomasetti, Val Tzvetkov / Skanska, Brandon Perry / Thornton Tomasetti, Nezar Abraham / Thornton Tomasetti, Yutan Sun / KPF, Erika Santos / AECOM, Sheldon McLeod / SHoP Architects
+------------------------------
+
+--- Project Group 36 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Team: Abhishek Bawiskar / Thornton Tomasetti, Russell Feathers / Thornton Tomasetti, Chris Chan / Juno, Francisco Maranchello / e-Verse, Matthew Breau / BBB, Peter Zhang / Corgan, Alloy Kemp / Thornton Tomasetti
+All Paragraphs Text in this group (3):
+  Paragraph 1: Clippy AI
+  Paragraph 2: QC your model Or else: many RFIs
+  Paragraph 3: Team: Abhishek Bawiskar / Thornton Tomasetti, Russell Feathers / Thornton Tomasetti, Chris Chan / Juno, Francisco Maranchello / e-Verse, Matthew Breau / BBB, Peter Zhang / Corgan, Alloy Kemp / Thornton Tomasetti
+------------------------------
+
+--- Project Group 37 ---
+GitHub URL: https://github.com/RolandoV/RAMit
+Title: RAMit
+Award: No Award Found
+Summary: Team: Atishay Lahri / Thornton Tomasetti, Rolando Villena / Thornton Tomasetti, Gregorius Budhijanto, Joydeep Chatterjee, Kohei Hayashi / Shimizu
+All Paragraphs Text in this group (3):
+  Paragraph 1: RAMit
+  Paragraph 2: Revit to Ram Concept Interoperability
+  Paragraph 3: Team: Atishay Lahri / Thornton Tomasetti, Rolando Villena / Thornton Tomasetti, Gregorius Budhijanto, Joydeep Chatterjee, Kohei Hayashi / Shimizu
+------------------------------
+
+--- Project Group 38 ---
+GitHub URL: https://github.com/enmerk4r/GHPT
+Title: GhPT
+Award: BEST OVERALL HACK:
+Summary: This project sets out to find a way to leverage the power of ChatGPT to create Grasshopper definitions. Dimensional Innovations
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST OVERALL HACK: GhPT
+  Paragraph 2: This project sets out to find a way to leverage the power of ChatGPT to create Grasshopper definitions.
+  Paragraph 3: Team: Callum Sykes / StructureCraft, Jo Kamm / Dimensional Innovations, Sergey Pigach / CORE studio, Ryan Erbert, Quoc Dang
+------------------------------
+
+--- Project Group 39 ---
+GitHub URL: https://github.com/chinsishe/carbonhacker
+Title: Carbon Hacker
+Award: BEST COLLABORATIVE HACK:
+Summary: Carbon Hacker is a web tool for home/building owners and designers to understand the current and future operational carbon emissions of their existing or proposed buildings due to their grid electricity and on-site fossil fuel usage, as well as the impact of PV on the net emissions..
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST COLLABORATIVE HACK: Carbon Hacker
+  Paragraph 2: Carbon Hacker is a web tool for home/building owners and designers to understand the current and future operational carbon emissions of their existing or proposed buildings due to their grid electricity and on-site fossil fuel usage, as well as the impact of PV on the net emissions..Team: Sishe Jeff Chin / ZGF Architects, Margarita Ganeva / Carrier Johnson + CULTURE, Heinrich Hoza, Daniel Mayall / ZGF Architects, Pawel Sapiecha / Olson Kundig, Chris Savage / LMN, Fendy Setiawan / Degenkolb Engineers, Chuou Zhang / ZGF Architects
+------------------------------
+
+--- Project Group 40 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Likeable is your architectural wingman, showcasing designs one-by- one for focused decisions and swipes. Through a gamified interface, you gain valuable insights from colleagues’ quick swipes, steering you towards your project’s perfect design match.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OPEN SOURCE HACK: Likeable
+  Paragraph 2: Likeable is your architectural wingman, showcasing designs one-by- one for focused decisions and swipes. Through a gamified interface, you gain valuable insights from colleagues’ quick swipes, steering you towards your project’s perfect design match.Team: Shariful Alam, Kristen Forward / NBBJ, Atharva Ranade / NBBJ, Weston Norwood
+------------------------------
+
+--- Project Group 41 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Making a Keyboard Layout that is Optimized for Python
+All Paragraphs Text in this group (2):
+  Paragraph 1: HONORABLE MENTION: Beyond QWERTY
+  Paragraph 2: Making a Keyboard Layout that is Optimized for PythonTeam: Terry Liu, Caden Rowse, Owen Susanto, Scott Dea
+------------------------------
+
+--- Project Group 42 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Seismic coefficient mapper
+All Paragraphs Text in this group (2):
+  Paragraph 1: Seismic Coefficient Mapper
+  Paragraph 2: Seismic coefficient mapperTeam: Nathan  Xu / Magnusson Klemencic Associates, Parth Korde / Thornton Tomasetti, Sophie Moore / CORE studio, Andres Roncal / CORE studio
+------------------------------
+
+--- Project Group 43 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: A real time interactive fire hazard map simulator utilizing Google Map API, Weather Info, and Historical Fire Data
+All Paragraphs Text in this group (2):
+  Paragraph 1: Fire Hazard Simulator
+  Paragraph 2: A real time interactive fire hazard map simulator utilizing Google Map API, Weather Info, and Historical Fire DataTeam: Boris Plotnikov, Michael Weismann, Jean-Luc Jackson, Srikrishnan Madhavan / Thornton Tomasetti, Bianca Casem / Degenkolb Engineers
+------------------------------
+
+--- Project Group 44 ---
+GitHub URL: https://github.com/kcpgilbert/HeatIslandHero
+Title: Heat Island Hero
+Award: BEST OVERALL HACK:
+Summary: Search and display urban heat island impacts, sensitivity, and future heat impacts.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OVERALL HACK: Heat Island Hero
+  Paragraph 2: Search and display urban heat island impacts, sensitivity, and future heat impacts.Team: Kendall Gilbert, Evan Koga, Sergey Pigach / CORE studio, Sila Gulgec / CORE studio, Alloy Kemp / CORE studio
+------------------------------
+
+--- Project Group 45 ---
+GitHub URL: https://github.com/mirahx24/AECTech-Hackathon-ClimateCanvas
+Title: C-Canvas
+Award: BEST COLLABORATIVE HACK:
+Summary: Connect design strategy today to climate changes, environmental or health impact by raising questions and collecting data from audience.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST COLLABORATIVE HACK: C-Canvas
+  Paragraph 2: Connect design strategy today to climate changes, environmental or health impact by raising questions and collecting data from audience.Team: Ilia Yazdanpanah / HKS, Luke Lombardi / Buro Happold, Mirah Xu / Buro Happold, Quoc Dang, Yixin Lyu / HKS
+------------------------------
+
+--- Project Group 46 ---
+GitHub URL: https://github.com/sophXmoore1/snapCycle
+Title: Snap Cycle
+Award: MOST SUSTAINABLE HACK:
+Summary: Recycling with a snap of a camera
+All Paragraphs Text in this group (2):
+  Paragraph 1: MOST SUSTAINABLE HACK: Snap Cycle
+  Paragraph 2: Recycling with a snap of a cameraTeam: Sophie Moore / CORE studio, Pranay Motta / HMC Architects, Aarin Salot, Franklin Le, Yongtae Park
+------------------------------
+
+--- Project Group 47 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Personal Nutritional Co Pilot.
+All Paragraphs Text in this group (3):
+  Paragraph 1: HONORABLE MENTION: Healther
+  Paragraph 2: Personal Nutritional Co Pilot.
+  Paragraph 3: Team: Nate Kwok, Timothy Liu, Daniel Weiss, Grant Liu, Felix Li
+------------------------------
+
+--- Project Group 48 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Stable diffusion design visualization in Rhino.
+All Paragraphs Text in this group (3):
+  Paragraph 1: Scene Sculpt
+  Paragraph 2: Stable diffusion design visualization in Rhino.
+  Paragraph 3: Team: Shahrzad Razi, Mertcan Büyüksandalyaci, Maysam Ghaffari, Ziba Esmaeilian, Jordan Thayer
+------------------------------
+
+--- Project Group 49 ---
+GitHub URL: https://github.com/AntonioWritesCode/CarbonEater
+Title: Sustainable Collaborators
+Award: No Award Found
+Summary: Read structural template image and optimize carbon output.
+All Paragraphs Text in this group (3):
+  Paragraph 1: Sustainable Collaborators
+  Paragraph 2: Read structural template image and optimize carbon output.
+  Paragraph 3: Team: Antonio Tayborn, Mason Preece, Douglas Neri, Rory Lopez-Esce, Parham Pirzadeh, Ian Chu Te
+------------------------------
+
+--- Project Group 50 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: An application for sharing 3D Rhino models with pictures.
+All Paragraphs Text in this group (3):
+  Paragraph 1: Rhyhorn
+  Paragraph 2: An application for sharing 3D Rhino models with pictures.
+  Paragraph 3: Team: Jesus Cruz-Garcia, Alex Kazenoff, Akash Chaurasia, Chiahao Chou
+------------------------------
+
+--- Project Group 51 ---
+GitHub URL: https://github.com/clicketyclackety/Crash
+Title: Crash!
+Award: BEST OVERALL HACK:
+Summary: Real Time Rhino Collaboration.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OVERALL HACK: Crash!
+  Paragraph 2: Real Time Rhino Collaboration.Team: Curtis Wensley / McNeel, Morteza Karimi / McNeel, Russell Feathers / CORE studio, Erika Santos / AECOM, Moustafa El-Sawy / AECOM, Callum Sykes / StructureCraft, Lukas Fuhrimann / StructureCraft
+------------------------------
+
+--- Project Group 52 ---
+GitHub URL: https://github.com/pedrocortesark/dreamhopper
+Title: Dreamhopper
+Award: BEST OPEN SOURCE HACK:
+Summary: A new Paradigm in 3D Modelling
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OPEN SOURCE HACK: Dreamhopper
+  Paragraph 2: A new Paradigm in 3D ModellingTeam: Francisco Landeros / INFORM Studio, Pedro Cortes / McNeel, Alfredo Chavez / Heatherwick Studio, Nathaniel Steinrueck / AIA, Sergey Pigach / CORE studio, Juan Arredondo / Columbia University, Jeffrey Moser / Grimshaw, Pablo Zamorano / Heatherwick Studio,  Sasha Geremia / CORE studio
+------------------------------
+
+--- Project Group 53 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Reconciling as-design and as-built. Procedural /parametric logic in the real world.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST COLLABORATIVE HACK: REmap
+  Paragraph 2: Reconciling as-design and as-built. Procedural /parametric logic in the real world.Team: James Coleman / Zahner, Brian Gillespie / McNeel, Burçin Nalıncı / Zahner, Nathan Barnes / Zahner, Quoc Dang
+------------------------------
+
+--- Project Group 54 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Performance Design Space Exploration: A Generalized Workflow
+All Paragraphs Text in this group (3):
+  Paragraph 1: VAEttle
+  Paragraph 2: Performance Design Space Exploration: A Generalized Workflow
+  Paragraph 3: Team: Zhenxiang Huang, Vincent Mai, Daniel Gaspar, Mark Membreno, Mohsin Afsar, JP Mendez-Ruiz, Paul Laroque, Mitsu Kuroki, Peter Zhang
+------------------------------
+
+--- Project Group 55 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: What if designers could encapsulate their design logic online and execute as smart components in a geolocated contextual analysis environment?
+All Paragraphs Text in this group (3):
+  Paragraph 1: ShapeMaker
+  Paragraph 2: What if designers could encapsulate their design logic online and execute as smart components in a geolocated contextual analysis environment?
+  Paragraph 3: Team: Alexander Schiftner, Ardeshir Aliaskari, Håkon Disse, Jeroen Janssen, Kjetil Kristoffersen, Krzysztof Jedrzejewski, Magnus Wang, Oscar Borgstrom, Pål Moen Møst, Zach Kron
+------------------------------
+
+--- Project Group 56 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: What if designers could get office building layouts at lighting speed and understand the environment impact all at once?
+All Paragraphs Text in this group (3):
+  Paragraph 1: Skjematest
+  Paragraph 2: What if designers could get office building layouts at lighting speed and understand the environment impact all at once?
+  Paragraph 3: Team: Ryan Griege, Luke Minnich, Clifton Harness, Nat MacDonald, Kjetil Kristoffersen, Magnus Wang, Zach Kron
+------------------------------
+
+--- Project Group 57 ---
+GitHub URL: https://github.com/vimaec/difference-engine
+Title: Difference Machine
+Award: No Award Found
+Summary: Calculating differences between BIM models
+All Paragraphs Text in this group (3):
+  Paragraph 1: Difference Machine
+  Paragraph 2: Calculating differences between BIM models
+  Paragraph 3: Team: Augustina Aboy, Ben Ferrer, Christopher Diggins, Matt Shelp, Nick Bowker, Nick Mundell, Sophie Moore
+------------------------------
+
+--- Project Group 58 ---
+GitHub URL: https://github.com/just-ajs/DevHops
+Title: DevHops
+Award: No Award Found
+Summary: Visual programming interface with kanban for project management
+All Paragraphs Text in this group (3):
+  Paragraph 1: DevHops
+  Paragraph 2: Visual programming interface with kanban for project management
+  Paragraph 3: Team: Marcin Kosicki, Jo Kamm, Justyna Szychowska, Anders Rod, Chuck Driesler
+------------------------------
+
+--- Project Group 59 ---
+GitHub URL: https://github.com/EmilPoulsen/ConfigAR.App
+Title: ConfigAR
+Award: No Award Found
+Summary: Connecting augmented reality with the super powers of parametric design and Grasshopper. Making it possible to visualize configurable designs in the real world using nothing else but your phone.
+All Paragraphs Text in this group (3):
+  Paragraph 1: ConfigAR
+  Paragraph 2: Connecting augmented reality with the super powers of parametric design and Grasshopper. Making it possible to visualize configurable designs in the real world using nothing else but your phone.
+  Paragraph 3: Team: Ben Fortunato, Elcin Ertugrul, Alice Huang, Val Tzvetkov, Luke Gehron, Knut Tjensvoll, Rolando Villen, Atishay Lahr, Gokul Gupta
+------------------------------
+
+--- Project Group 60 ---
+GitHub URL: https://github.com/EmptyBox-Design/project-vibe
+Title: Project-Vibe
+Award: No Award Found
+Summary: Project-Vibe allows users to query anywhere in NYC to find what businesses are walking distance from the site.
+All Paragraphs Text in this group (3):
+  Paragraph 1: Project-Vibe
+  Paragraph 2: Project-Vibe allows users to query anywhere in NYC to find what businesses are walking distance from the site.
+  Paragraph 3: Team: Brandon Pachuca, Hailey Kim, Robert Wang,  Nanami Santa Cruz, Sandra Cai, Atharva Ranade, Tamaho Shigemura
+------------------------------
+
+--- Project Group 61 ---
+GitHub URL: https://github.com/simpleSketche/GraFix
+Title: GraFix
+Award: No Award Found
+Summary: Fix 2d floor plan mis-alignment assuming the floor plan as a graph data structure, in which rooms are nodes and adjacencies are edges.
+All Paragraphs Text in this group (2):
+  Paragraph 1: GraFixFix 2d floor plan mis-alignment assuming the floor plan as a graph data structure, in which rooms are nodes and adjacencies are edges.
+  Paragraph 2: Team: Yankun Yang, Seyedomid Sajed, Sila Gulgec, Yuan-Tung Chou, Mostapha Roudsari, Mingbo Peng, Taro Narahara, Alireza Memarian
+------------------------------
+
+--- Project Group 62 ---
+GitHub URL: https://github.com/xyang920/Seism-sim.git
+Title: Seism-Sim
+Award: No Award Found
+Summary: Using Unity and C# to develop a program to visualize game-effect building's time history response under an earthquake curve.
+All Paragraphs Text in this group (4):
+  Paragraph 1: Seism-Sim
+  Paragraph 2: Using Unity and C# to develop a program to visualize game-effect building's time history response under an earthquake curve.
+  Paragraph 3: Team: Xianqiao Yang,  Matt Conway, Melissa Bidegain Yeung, Andres Roncal, Kenny Tam
+  Paragraph 4: 
+------------------------------
+
+--- Project Group 63 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Overlay annual daylighting feedback as you sketch.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OVERALL HACK: MLuminanceOverlay annual daylighting feedback as you sketch.
+  Paragraph 2: Team: Karim Daw / BIG, Alexander Jacobson / BIG, Peter Ehvert / BIG, Ken Takahashi / Tokyo University
+------------------------------
+
+--- Project Group 64 ---
+GitHub URL: https://github.com/enmerk4r/pixeling
+Title: Pixeling
+Award: BEST OPEN SOURCE HACK:
+Summary: Enable visualization of geometry and real-time or static data (from IoT devices or other sources) on a web-server.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OPEN SOURCE HACK: PixelingEnable visualization of geometry and real-time or static data (from IoT devices or other sources) on a web-server.
+  Paragraph 2: Team: Edwin Bailey / Skanska, Alfredo Chavez / Heatherwick, Jeanne Li / MiraclePlus, Eesha Khanna / Cornell Tech, Brad Lei / RISD, Daniel Escobar / Tetra Tech, Amit Nambiar / CORE studio, Sergey Pigach / CORE studio
+------------------------------
+
+--- Project Group 65 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Robotics: Cloud Remote Control
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST COLLABORATIVE HACK: Superpositioning StructuresRobotics: Cloud Remote Control
+  Paragraph 2: Team: Ethan Kerber / Robots in Architecture Research, Dr. Sven Stumm / Robots in Architecture Research, Rushi Dai / Robots in Architecture Research, Ardeshir Aliaskari / MRI Engineering & Testing, Jonathan Kestelman / HDR
+------------------------------
+
+--- Project Group 66 ---
+GitHub URL: https://github.com/MattBramante/BestFitAECHackAThon2021
+Title: Best Fit
+Award: No Award Found
+Summary: Ensuring your equipment gets where it needs to go.
+All Paragraphs Text in this group (2):
+  Paragraph 1: Best FitEnsuring your equipment gets where it needs to go.
+  Paragraph 2: Team: Matthew Bramante / Skanska, Brooke Gemmell / Skanska, Jeffery Moser / Grimshaw, Evan Reilly / Skanska, Val Tzvetkov / Skanska
+------------------------------
+
+--- Project Group 67 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Generate floorplan recommendations based on previous data, allowing for a much faster ‘learning’ of existing standards and precedent projects
+All Paragraphs Text in this group (2):
+  Paragraph 1: {un}precedentGenerate floorplan recommendations based on previous data, allowing for a much faster ‘learning’ of existing standards and precedent projects
+  Paragraph 2: Team: Ryan Barnette / Grimshaw, Álvaro Cosidó / CBRE, Brandon Pachuca / KPF, Ramón Peña / Populous, Konrad Zaremba / Arch Deco
+------------------------------
+
+--- Project Group 68 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: HOT or NOT? What’s YOUR façade’s global warming potential?
+All Paragraphs Text in this group (2):
+  Paragraph 1: Facade ForecastHOT or NOT? What’s YOUR façade’s global warming potential?
+  Paragraph 2: Team: Rob Otani / Thornton Tomasetti, Abhishek Bawiskar / CORE studio, Elcin Ertugrul / CORE studio, Andrew Swartzell / Pickard Chilton
+------------------------------
+
+--- Project Group 69 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Automated Outlier Analysis for Revit
+All Paragraphs Text in this group (2):
+  Paragraph 1: Cuckoo!Automated Outlier Analysis for Revit
+  Paragraph 2: Team: Alex Ogata, Savesh Sp, Jim Peraino / Spatio Metrics, Zhenxiang Huang / Arrowstreet, Matthew Breau / Handel Architects
+------------------------------
+
+--- Project Group 70 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Raytracing based analysis model extraction
+All Paragraphs Text in this group (2):
+  Paragraph 1: Automating Analysis Model ExtractionRaytracing based analysis model extraction
+  Paragraph 2: Team: Vincent Mai / NBBJ, Mona Hashemi / NBBJ, Danila Babko-Malyi / NBBJ, Atharva Ranade / NBBJ, Pragya Gupta / NBBJ
+------------------------------
+
+--- Project Group 71 ---
+GitHub URL: https://github.com/amitlzkpa/ar-points
+Title: Spatial Scheduler
+Award: BEST OVERALL HACK:
+Summary: A maintenance scheduling app that helps to create Augmented Reality (AR) enabled spatial persistent notes on locations in the real world.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OVERALL HACK: Spatial SchedulerA maintenance scheduling app that helps to create Augmented Reality (AR) enabled spatial persistent notes on locations in the real world.
+  Paragraph 2: Team: Elcin Ertugrul / CORE studio, Amit Nambiar / CORE studio, Adam Chernick / SHop Architects, Rolanda Villena / Thornton Tomasetti, Ezgi Sendil
+------------------------------
+
+--- Project Group 72 ---
+GitHub URL: https://github.com/enmerk4r/Bonobo
+Title: Bonobo
+Award: BEST OPEN SOURCE HACK:
+Summary: A Grasshopper bridge for Blender simulations
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OPEN SOURCE HACK: BonoboA Grasshopper bridge for Blender simulations
+  Paragraph 2: Team: Sergey Pigach / CORE studio, Omid Sajedi / CORE studio, Congzheng Zou / BIMtech, Ardeshir Aliaskari / Freelancer, Sahil Tadwalkar / Insite VR
+------------------------------
+
+--- Project Group 73 ---
+GitHub URL: https://github.com/EmilPoulsen/Hackuble
+Title: Hackuble
+Award: No Award Found
+Summary: A generative 3D modeling environment built to write and execute C# code in the browser.
+All Paragraphs Text in this group (2):
+  Paragraph 1: HackubleA generative 3D modeling environment built to write and execute C# code in the browser.
+  Paragraph 2: Team: Emil Poulsen / CORE studio, Hanshen Sun / CORE studio, Praneet Mathur / ARPM Design and Research, Yankun Yang / iBuilt Group, Yushi Kato / Turner & Townsend
+------------------------------
+
+--- Project Group 74 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: A PDF Markup tool dedicated to Rhino that allows a list of PDF drawing markups to be directly referenced into a 3D Rhino model.
+All Paragraphs Text in this group (2):
+  Paragraph 1: RecenseoA PDF Markup tool dedicated to Rhino that allows a list of PDF drawing markups to be directly referenced into a 3D Rhino model.
+  Paragraph 2: Team: Nick Mundell / CORE studio, Amit Nambiar / CORE studio, Mark Skepasts / Structure Craft, Johan Reissmuller / Structure Craft, Lukas Fuhrimann / Structure Craft, Sahar Barzani / Structure Craft
+------------------------------
+
+--- Project Group 75 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Embodied Carbon Made Eazy.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OVERALL HACK: EZECEmbodied Carbon Made Eazy.
+  Paragraph 2: Team: Andrew Swartzell / Pickard Chilton, Luke Gehron / Payette, Patryk Wozniczka / Entuitive, Emil Poulsen / CORE studio, Brittney Holmes / HMC Architects, Chris Hazel / Ayers Saint Gross Architects, Luke Lombardi / Thornton Tomasetti
+------------------------------
+
+--- Project Group 76 ---
+GitHub URL: https://github.com/markhorgan/ganplan-webapp
+Title: No Title Found
+Award: BEST OPEN SOURCE HACK:
+Summary: Generate and evaluate home layout plans based on realism, diversity, and compatibility through machine learning.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OPEN SOURCE HACK: GANPlanGenerate and evaluate home layout plans based on realism, diversity, and compatibility through machine learning.
+  Paragraph 2: Team: Demi Chang / KPF, Mark Horgan / Freelancer, Leland Curtis / Smith Group, Brandon Pachuca / KPF, Matthew Breau / Handel Architects
+------------------------------
+
+--- Project Group 77 ---
+GitHub URL: https://github.com/TheodoreGalanos/Layout5
+Title: No Title Found
+Award: BEST COLLABORATIVE HACK:
+Summary: A residential layout recommendation app using machine learning to recommend designs based on an easy sketch-to-layout mechanism and real-time daylighting analysis.
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST COLLABORATIVE HACK: Layout5A residential layout recommendation app using machine learning to recommend designs based on an easy sketch-to-layout mechanism and real-time daylighting analysis.
+  Paragraph 2: Team: Theodoros Galanos /CIL AIT, Ping-Hsiang Chen / KPF, Peng Wang / KPF, Jeroen Janssen / CORE studio
+------------------------------
+
+--- Project Group 78 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Automatic Base Plates Design & Documentation App.
+All Paragraphs Text in this group (2):
+  Paragraph 1: PlatematicAutomatic Base Plates Design & Documentation App.
+  Paragraph 2: Team: Norman Noe / CORE studio, David Mans / CORE studio, Amit Nambiar / CORE studio, Abhishek Bawiskar / CORE studio, Srikrishnan Madhaven / Thornton Tomasetti, Yushi Kato / Turner & Townsend, Aleksandra Jastrzebska / AECOM
+------------------------------
+
+--- Project Group 79 ---
+GitHub URL: https://github.com/gener8-io/gener8
+Title: Gener8.io
+Award: No Award Found
+Summary: Gener8.io looks to remove barriers and make room configuration accessible through a simplified web-based application.
+All Paragraphs Text in this group (2):
+  Paragraph 1: Gener8.ioGener8.io looks to remove barriers and make room configuration accessible through a simplified web-based application.
+  Paragraph 2: Team: Clifton Harness / TestFit.io, Arif Hanif / Affiliated Engineers, Joao Rodrigo, Andre Alves Silva, Andrew ColeM
+------------------------------
+
+--- Project Group 80 ---
+GitHub URL: https://github.com/enmerk4r/SmokingGAN
+Title: Smoking GAN
+Award: No Award Found
+Summary: An experimental framework for running ML Models inside the Grasshopper / Rhino environment.
+All Paragraphs Text in this group (2):
+  Paragraph 1: Smoking GANAn experimental framework for running ML Models inside the Grasshopper / Rhino environment.
+  Paragraph 2: Team: Sergey Pigach / CORE studio, Sergio Guindon / Cirrus Structural Engineering, Mayur Mistry / University of Illinois, Charles Portelli / CORE studio
+------------------------------
+
+--- Project Group 81 ---
+GitHub URL: https://github.com/djsiroky/aectech2019-sketchto3d-frontend
+Title: SketchGAN
+Award: BEST OVERALL HACK:
+Summary: Spring your sketch to 3D life. A web-based interface for sketching in conjunction with a generative adversarial network (GAN).
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OVERALL HACK: SketchGAN + GANgaru / check out this video!Spring your sketch to 3D life. A web-based interface for sketching in conjunction with a generative adversarial network (GAN).
+  Paragraph 2: Team (SketchGAN): Dan Siroky / HOK, Sounok Sarkar / HOK, Byron Mardas / Foster + Partners, Marios Tsiliakos / Foster + PartnersTeam (GANgaru): Alberto Tono / SFCDI, Constantina Tsiara / Workshop APD, Pablo Derendinger /ENGworks, Valentin Noves / ENGworks, Jeffrey Moser / Grimshaw, Lexi Fritz / Tetratech, Rachel Hartley / Autodesk
+------------------------------
+
+--- Project Group 82 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Lattice Boltzmann-Computational Fluid Dynamics in GH
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OPEN SOURCE: RT-ish FlowLattice Boltzmann-Computational Fluid Dynamics in GH
+  Paragraph 2: Team: Nickolaus Sundholm / Thornton Tomasetti, Mingbo Peng / Thornton Tomasetti, Daniel Bosia / Thornton Tomasetti, Jeroen Janssen / Thornton Tomasetti
+------------------------------
+
+--- Project Group 83 ---
+GitHub URL: https://github.com/cdriesler/building-ballot
+Title: Building Ballot
+Award: BEST COLLABORATION:
+Summary: Democratizing the design process by allowing all stakeholders to make informed decisions and provide feedback to designers in all phases
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST COLLABORATION: Building BallotDemocratizing the design process by allowing all stakeholders to make informed decisions and provide feedback to designers in all phases
+  Paragraph 2: Team: Nat MacDonald / BuroHappold, Arif Hanif / AEI, Luke Gehron / Payette, Chuck Driesler / PxWe, Xinye Lin, Allie Bosage / Shepley Bulfinch, Samarth Gwalani / Meis Architects, Riya Patel / Pei Cobb Freed & Partners LLP
+  Paragraph 3: 
+------------------------------
+
+--- Project Group 84 ---
+GitHub URL: https://github.com/oliveregreen/regular
+Title: Regular Espressos
+Award: No Award Found
+Summary: Automatic data validation for your Revit model
+All Paragraphs Text in this group (2):
+  Paragraph 1: Regular EspressosAutomatic data validation for your Revit model
+  Paragraph 2: Team: Oliver Green / AHMM, Norman Noe / CORE studio
+------------------------------
+
+--- Project Group 85 ---
+GitHub URL: https://github.com/nicoazel/arcrhino
+Title: ArcRhino
+Award: No Award Found
+Summary: Integrating Rhino.Inside within ArcGIS
+All Paragraphs Text in this group (2):
+  Paragraph 1: ArcRhinoIntegrating Rhino.Inside within ArcGIS
+  Paragraph 2: Team: Nico Azel / evolveEA, Ryan Welch / KieranTimberlake, Sabrina Naumovski / KieranTimberlake, Eesha Khanna / KieranTimberlake, Amit Nambiar / CORE studio
+------------------------------
+
+--- Project Group 86 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Rhino inside export to Airtable tables, add data to Rhino geometry, view data in Rhino using CEFSharp and Vue.js
+All Paragraphs Text in this group (2):
+  Paragraph 1: AirbudRhino inside export to Airtable tables, add data to Rhino geometry, view data in Rhino using CEFSharp and Vue.js
+  Paragraph 2: Team: Nicholas Cassab / Ennead, Nicolas Schmidt, Christopher Connock / KieranTimberlake, Scott Diescher, Yongjoon Kim
+------------------------------
+
+--- Project Group 87 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: A tool that empowers designers with data during design process
+All Paragraphs Text in this group (2):
+  Paragraph 1: SparrowA tool that empowers designers with data during design process
+  Paragraph 2: Team: Brandon Pachuca / KPF UI, Pragya Gupta, / Carnegie Mellon University, Paul Garabedian / ELLANA Cost Consultants, Olga Bienias / ECA, Meli Harvey / Urban Obscura, Elcin Ertugrul / CORE studio
+------------------------------
+
+--- Project Group 88 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: A group of people to make your wish true
+All Paragraphs Text in this group (2):
+  Paragraph 1: WishboxA group of people to make your wish true
+  Paragraph 2: Team: Rajamanickam / KSP Architekten, Aleksandra Jastrzebska / McLaren Engineering Group, Pengcheng(Alex) Zhou / Thornton Tomasetti, Desmond He / AEI,James (Jay) Andrews Jr / Thornton Tomasetti, Luke Lombardi / Thornton Tomasetti, Emily Hwang
+------------------------------
+
+--- Project Group 89 ---
+GitHub URL: https://github.com/preynoldson/punchboss
+Title: PunchBoss
+Award: No Award Found
+Summary: Robot documents and directs resolution of issues onsite
+All Paragraphs Text in this group (2):
+  Paragraph 1: PunchBossRobot documents and directs resolution of issues onsite
+  Paragraph 2: Team: Filippo Alimonda / VirtualAPT, Madhurya Udayakumar / Pratt, Val Tzvetkov / Skanska, Pierce Reynoldson / WeWork, Radihika Rajaram / VirtualAPT
+------------------------------
+
+--- Project Group 90 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Visualizing Rainfall Flows on the roof
+All Paragraphs Text in this group (2):
+  Paragraph 1: Drawn in SWARMVisualizing Rainfall Flows on the roof
+  Paragraph 2: Team: Tamaho Shigemura / ADL, Hiroya Inage / ADL, Kan Shindo / Waseda University, Hiroyoshi Satake / Shimz
+------------------------------
+
+--- Project Group 91 ---
+GitHub URL: https://github.com/LelandCurtis/daylighting-design-space
+Title: Null Stack
+Award: No Award Found
+Summary: Design Space Exploration optimizer that generates an ML model of a design space using as few simulations as possible
+All Paragraphs Text in this group (2):
+  Paragraph 1: Null StackDesign Space Exploration optimizer that generates an ML model of a design space using as few simulations as possible
+  Paragraph 2: Team: Petr Mitev / NBBJ, David Eaton / NBBJ, Leland Curtis / SmithGroup, Steven Blevins / Cuhachi & Peterson, Matthew Breau / NJIT
+------------------------------
+
+--- Project Group 92 ---
+GitHub URL: https://github.com/nadya/mechahopper
+Title: MECHAHOPPER
+Award: BEST OVERALL HACK:
+Summary: Grasshopper Machine Control
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OVERALL HACK: MECHAHOPPERGrasshopper Machine Control
+  Paragraph 2: Team: James Coleman / A.Zahner Company, Nadya Peek / UW HCDE, Calvin Zhong / WeWork, Brian Gillespie / Robert McNeel & Associates, Junichiro Horikawa, Tim Logan / HKS, Andy Tatkowski / Thornton Tomasetti
+------------------------------
+
+--- Project Group 93 ---
+GitHub URL: https://github.com/Brandoncyu/aechackathon2019
+Title: GitHub 1
+Award: BEST OPEN SOURCE: Stroll (
+Summary: It’s a great time to take a Stroll… Research suggests that taking a walk, or a Stroll, can boost cognitive thought processes leading to better or alternative solutions that wouldn’t otherwise have happened when sitting in front of a computer or in a meeting room. Our app will help map out a Stroll for you or your team based on given time duration and path to include nature, daylight/shade, water, art, etc… Use Stroll to boost the creative potential of your next meeting
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OPEN SOURCE: Stroll (GitHub 1 / GitHub 2)It’s a great time to take a Stroll… Research suggests that taking a walk, or a Stroll, can boost cognitive thought processes leading to better or alternative solutions that wouldn’t otherwise have happened when sitting in front of a computer or in a meeting room. Our app will help map out a Stroll for you or your team based on given time duration and path to include nature, daylight/shade, water, art, etc… Use Stroll to boost the creative potential of your next meeting
+  Paragraph 2: Team: Nate Holland / NBBJ, Petr Mitev / NBBJ, Brandon Yu / Galvanize, Adam Chernick / SHoP Architects, Jason Wheeler / Callison RTKL
+------------------------------
+
+--- Project Group 94 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Model health prediction
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST COLLABORATION: EagleModel health prediction
+  Paragraph 2: Team: Alberto Tono / HOK, Eric Schoettle, Noah Kelly / HMC Architects, Ren Eto / WeWork, Steven Hansen / NBBJ, Yushi Kato / WeWork
+  Paragraph 3: 
+------------------------------
+
+--- Project Group 95 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: Allowing the community to envision how the city may change and grow
+All Paragraphs Text in this group (2):
+  Paragraph 1: Future City VisionAllowing the community to envision how the city may change and grow
+  Paragraph 2: Team: Gavin Argo / Olson Kundig, Ana Brainard / Olson Kundig, Joel Hills / CPL Inc., Charlie Portelli / CORE studio, Ethan Davis / Mithun, Nicole Myers / Honolulu Aerial, Alexis Nichol / Olson Kundig
+------------------------------
+
+--- Project Group 96 ---
+GitHub URL: https://github.com/dalefugier/RealDrawings
+Title: Layout Hawk
+Award: No Award Found
+Summary: A panel of tools to simplify & enhance the management of layouts in Rhino 3D
+All Paragraphs Text in this group (2):
+  Paragraph 1: Layout HawkA panel of tools to simplify & enhance the management of layouts in Rhino 3D
+  Paragraph 2: Team: Mary Fugier / Robert McNeel & Associates, Dale Fugier / Robert McNeel & Associates, Daniel Depoe / Katerra, James Munns / Structurecraft
+------------------------------
+
+--- Project Group 97 ---
+GitHub URL: https://github.com/pearswj/damagedogs
+Title: DamageDogs
+Award: No Award Found
+Summary: Projecting interpretable and recognizable damage levels, the result of forces, blast, or push over data, onto the modeled object for client/team visualization/communication
+All Paragraphs Text in this group (2):
+  Paragraph 1: DamageDogsProjecting interpretable and recognizable damage levels, the result of forces, blast, or push over data, onto the modeled object for client/team visualization/communication
+  Paragraph 2: Team: Michael Roberts / HDR, Corbin Robeck / Thornton Tomasetti, Paul Tominna / Thornton Tomasetti, Imran Peerbhai / Thinkpredict, Steven Blevins / Cuhaci & Peterson, Jackson Pitofsky / Thornton Tomasetti, Will Pearson / Robert McNeel & Associates
+------------------------------
+
+--- Project Group 98 ---
+GitHub URL: https://github.com/RESThopper
+Title: RESThopper
+Award: BEST OVERALL HACK:
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OVERALL HACK: RESThopper
+  Paragraph 2: Team: Marc Syp / NBBJ, Emil Poulsen / CORE studio, Sergey Pigach / CORE studio, Chuck Driesler / HOK, Carl Wedell / Radius Track Corp., Nico Azel / Carnegie Mellon
+------------------------------
+
+--- Project Group 99 ---
+GitHub URL: https://github.com/alexzhou007/VIF
+Title: Verify in Field (VIF)
+Award: BEST OPEN SOURCE:
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OPEN SOURCE: Verify in Field (VIF)
+  Paragraph 2: Team: Mohammad Khatib / e.construct, Miles Barber / Thornton Tomasetti, Pengcheng ‘Alex’ Zhou / Thornton Tomasetti, Maryanne Wachter / LERA, Paola Cuevas / Perkins Eastman. Motasem Matarneh / e.construct
+------------------------------
+
+--- Project Group 100 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (3):
+  Paragraph 1: BEST COLLABORATION: Holy FritGlitch Links: One, Two, Three, Four, Five, Six, Seven, Eight, Nine
+  Paragraph 2: Team: Ali Worthington / KieranTimberlake, Christopher Connock / KieranTimberlake, Brandon Cuffy / KieranTimberlake, Saeran Vasanthakumar / KieranTimberlake, Cheryl Hu / KieranTimberlake, Eric Rudisaile / Microdesk, Albert Slepak / Brooklyn Technical High School
+  Paragraph 3: 
+------------------------------
+
+--- Project Group 101 ---
+GitHub URL: https://github.com/mitevpi/thesaurus
+Title: theSAURUS
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: theSAURUS
+  Paragraph 2: Team: Petr Mitev / NBBJ, Konrad Sobon / HOK, Ahmed Abbas / e.construct, Patrick Pease / Arup, Varvara Toulkeridou / Autodesk, Aaron Tang / Autodesk, Sy-Wei Ho, Jasmine Wright / The New School & DKGR
+------------------------------
+
+--- Project Group 102 ---
+GitHub URL: https://github.com/Crashnorun/GoRhinoGo
+Title: GoRhinoGo
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: GoRhinoGo
+  Paragraph 2: Team: Charlie Portelli / CORE studio, Georgios Tsakiridis / Grimshaw, Byron Mardas / Foster and Partners, Andrew Swartzell / Pickard Chilton
+------------------------------
+
+--- Project Group 103 ---
+GitHub URL: https://github.com/amitlzkpa/SneakyCat
+Title: SneakyCat
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: SneakyCat
+  Paragraph 2: Team: Amit Nambiar / LERA, Zack Sickman / University of Cincinnati, Leland Curtis / SmithGroup, Joseph Wagner / Stantec, Vina A. Soliman / Perkins + Will, Mia Tsiamis / LERA
+------------------------------
+
+--- Project Group 104 ---
+GitHub URL: https://github.com/eertugrul/RhinoInsideSAP
+Title: Stridulator
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Stridulator
+------------------------------
+
+--- Project Group 105 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Team: Elcin Ertugrul / CORE studio, Daniel Segraves / CORE studio, Lucas Lombardi / Thornton Tomasetti, Rolando Villena / Thornton Tomasetti, Andy Tatkowski / Thornton Tomasetti, Toussaint Jimenez Rojas / AECOM, Nathan Barnes / Zahner
+------------------------------
+
+--- Project Group 106 ---
+GitHub URL: https://github.com/MingboPeng/AECTech18_RhinoInRevit/
+Title: Take ‘n Bake
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Take ‘n Bake
+  Paragraph 2: Team: Mingbo Peng / Thornton Tomasetti, Abhishek Bawiskar / CORE studio, Tim Williams / Pelli Clarke Pelli, Ramzi Jaber / e.construct, Ricky Bagg
+------------------------------
+
+--- Project Group 107 ---
+GitHub URL: https://github.com/hanshenSun/grassFlow
+Title: Grassflow
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Grassflow
+  Paragraph 2: Team: Alan Tai / FRONT, Hanshen Sun / CORE studio, Corbin Robeck / Thornton Tomasetti, Ahmad Ghunaim / e.construct
+------------------------------
+
+--- Project Group 108 ---
+GitHub URL: https://github.com/mm-wang/metashape
+Title: Metashape
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Metashape
+------------------------------
+
+--- Project Group 109 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Team: Margaret Wang / CORE studio, Serena Li / CORE studio, Mark Tam / CORE studio, Saeran Vasanthakumar / Kieran Timberlake, Petr Mitev / Kieran Timberlake, Andrew Salveson / NBBJ, Marc Syp / NBBJ, Dan Anthony / NBBJ, Meli Harvey / MIT, Mohammad Elsabbagh / Dar Group
+------------------------------
+
+--- Project Group 110 ---
+GitHub URL: https://github.com/EmilPoulsen/K2Engineering
+Title: K2Engineering
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: K2Engineering
+  Paragraph 2: Team: Cecilie Brandt-Olsen / BIG Engineering, Daniel Piker / Kangaroo, Emil Poulsen / CORE studio, Daniel Segraves / CORE studio, Norman Richardson / Thornton Tomasetti, Rudolf Starossek / Thornton Tomasetti, Osvaldo Valdivia / Thornton Tomasetti, Mathieu Lerouge / Thornton Tomasetti, Omar Abukar / AECOM, James Warton / HKS Line
+------------------------------
+
+--- Project Group 111 ---
+GitHub URL: https://github.com/jlankitus/Dynamidi
+Title: DynaMidi
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: DynaMidi
+  Paragraph 2: Team: Jediah Lankitus, Richard Schmitt / CORE studio, Kenny Tam / CORE studio
+------------------------------
+
+--- Project Group 112 ---
+GitHub URL: https://github.com/interopxyz/Aviary
+Title: Aviary
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Aviary
+  Paragraph 2: Team: Leland Jobson / CORE studio, David Mans, Hanshen Sun / Pratt
+------------------------------
+
+--- Project Group 113 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Death of Two Silos
+  Paragraph 2: Team: Robert Otani / CORE studio, Dan Reynolds / CORE studio, Richard Reynolds, Abanda Abanda
+------------------------------
+
+--- Project Group 114 ---
+GitHub URL: https://github.com/RevitAirflowDesigner/RevitAirflowDesigner
+Title: Duct People
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Duct People
+  Paragraph 2: Team: James McNeill / Affiliated Engineers Inc., Arif Hanif / Affiliated Engineers Inc., Matt Mason / Imaginit, Nathaniel MacDonald / CRB
+------------------------------
+
+--- Project Group 115 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Spot.io
+  Paragraph 2: Team: Pierce Reynoldson / Skanska, Daniel Hambleton, Harrison Yamamoto, Timothy Logan, Radoslav Simeonov, Val Tzvetov
+------------------------------
+
+--- Project Group 116 ---
+GitHub URL: https://github.com/ladybug-tools/honeybee-server
+Title: Honeybee Server
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Honeybee Server
+------------------------------
+
+--- Project Group 117 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Team: Mostapha Sadeghipour Roudsari / Ladybug
+------------------------------
+
+--- Project Group 118 ---
+GitHub URL: https://github.com/mkero-tt/Revilations
+Title: Revilations
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Revilations
+  Paragraph 2: Team: Leland Curtis / SmithGroup, Mike Kero / CORE studio, Hiram Rodriguez / CORE studio, Hanshen Sun / Pratt, Fathy Gad / Dar Group
+------------------------------
+
+--- Project Group 119 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Robotic IoT
+  Paragraph 2: Team: Rafael Vasquez / Energetik Envelop, Femi King / Energetik Envelop, Richard Tobar / Energetik Envelop
+------------------------------
+
+--- Project Group 120 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: DGBash
+  Paragraph 2: Team: Leland Jobson / CORE studio
+------------------------------
+
+--- Project Group 121 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Hydrashare 2.0
+  Paragraph 2: Team: Keith Alfaro / Autodesk, Michael Kirschner / Autodesk, Aaron Tang / Autodesk
+------------------------------
+
+--- Project Group 122 ---
+GitHub URL: https://github.com/anddoyoueverfeel/tthack2017
+Title: Shuffle
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Shuffle
+  Paragraph 2: Team: Ye Wang / Join, Kyle Martin / Tocci, Osmany Cabrera, Andres Carter, Michael Breau
+------------------------------
+
+--- Project Group 123 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Airflow Network Visualizer
+------------------------------
+
+--- Project Group 124 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Team: Tamaho Shigemura / Algorithm Design Lab, Hiroyoshi Satake
+------------------------------
+
+--- Project Group 125 ---
+GitHub URL: https://github.com/ladybug-tools/ladybugvizzz
+Title: Ladybug Vizzz!
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Ladybug Vizzz!
+------------------------------
+
+--- Project Group 126 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (1):
+  Paragraph 1: Team: Chris Mackey / Ladybug
+------------------------------
+
+--- Project Group 127 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Revit Dynamo JSON
+  Paragraph 2: Team: Eric Boehlke
+------------------------------
+
+--- Project Group 128 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Tango Go
+  Paragraph 2: Team: Charlies Portelli, Jared Friedman, Michael Kero
+------------------------------
+
+--- Project Group 129 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Design Generator - Try it out!
+  Paragraph 2: Team: An-lei Huang, Anton Szilasi, Byron Mardas, James McNeill, Leland Curtis, Matt Dahlhausen, Mostapha Sadeghipour Roudsari
+------------------------------
+
+--- Project Group 130 ---
+GitHub URL: https://github.com/sasakiassociates/revit-3d-print
+Title: 3D Print and Revit
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: 3D Print and Revit
+  Paragraph 2: Team: Santiago Garay, Chris Winkler, Youngjin Lee, Yueying Cui
+------------------------------
+
+--- Project Group 131 ---
+GitHub URL: None
+Title: No Title Found
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEnMap
+  Paragraph 2: Team: Andrew Salveson, Margaret Wang, Chris Mackey, Saeran Vasanthakumar
+------------------------------
+
+--- Project Group 132 ---
+GitHub URL: https://github.com/DOCQR/docqr.github.io
+Title: docQR
+Award: BEST OVERALL HACK:
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST OVERALL HACK: docQR - Try it out!
+  Paragraph 2: Team: Matt Mason, Nick Mattise, Josh Wentz, Jonatan Schumacher, Charlies Portelli, Maximilian Thumfart, Irmak Turan
+------------------------------
+
+--- Project Group 133 ---
+GitHub URL: https://github.com/HydraShare/hydra
+Title: Hydra
+Award: BEST HACK USING EXISTING APPLICATIONS:
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST HACK USING EXISTING APPLICATIONS: Hydra - Try it out!
+  Paragraph 2: Team: Chris Mackey, Mostapha Sadeghipour Roudsari, Matthew Dahlhausen, Keith Alfaro
+------------------------------
+
+--- Project Group 134 ---
+GitHub URL: https://github.com/pix3lot/Slackit
+Title: Slackit
+Award: BEST COLLABORATION/OPEN SOURCE:
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: BEST COLLABORATION/OPEN SOURCE: Slackit
+  Paragraph 2: Team: Ben Muller
+------------------------------
+
+--- Project Group 135 ---
+GitHub URL: https://github.com/danielinocente/application
+Title: Skinventor
+Award: No Award Found
+Summary: 
+All Paragraphs Text in this group (2):
+  Paragraph 1: Skinventor
+  Paragraph 2: Team: Daniel Inocente, Matthew Noe
+------------------------------
