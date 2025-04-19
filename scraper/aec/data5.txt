@@ -1,0 +1,829 @@
+Found 92 project entries.
+
+--- Project 1 ---
+URL: https://github.com/DEV-RIOS/SnailAI
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Snail Rendering
+Award: BEST OVERALL HACK:
+Summary: "Realtime" AI imagination for your Rhino model, all within a Rhino viewport, activated via a Display Mode.
+------------------------------
+
+--- Project 2 ---
+URL: https://github.com/graphhop
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Graph-Hop
+Award: BEST COLLABORATIVE HACK:
+Summary: This project is designed to consume Grasshopper files, parse their component data, and store the information in a TinkerPop graph database. This allows for version control and analysis of Grasshopper files.
+------------------------------
+
+--- Project 3 ---
+URL: https://github.com/ssajedi/upzone
+Is GitHub URL: True
+Is Devpost URL: False
+Title: UpZone
+Award: BEST BREAKOUT TEAM & HACKER’S CHOICE:
+Summary: UpZone is your one-click solution to modeling your NYC lot's buildable zoning volume. The app searches multi-thousand-page zoning resolution documents and city websites, identifies relevant zoning requirements, and generates a user-friendly 3D model for architects to hit the ground running with design. Developed by a diverse team of architects, software developers, machine learning engineers, computational designers, and structural engineers. It combines large language models with spatial algorithms to turn complex, interconnected data into a clean, legible 3D model.
+------------------------------
+
+--- Project 4 ---
+URL: https://github.com/team-speckle-automation/SPLASH
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Splash
+Award: No Award Found
+Summary: This project aims to streamline model analysis and enhance feedback processes for AEC projects. By integrating Speckle, we provide stakeholders easy web-based access to 3D model analysis results that update in real-time!. This setup empowers non-technical stakeholders to review analysis outputs and provide feedback directly, without needing specialized software like Revit or Rhino.
+------------------------------
+
+--- Project 5 ---
+URL: https://github.com/murra133/EarthToRhino
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Earth to Rhino
+Award: No Award Found
+Summary: EarthToRhino is a bridge between Cesium, a 3d Geospatial platform, and McNeel's Rhinoceros 3D through Grasshopper.
+------------------------------
+
+--- Project 6 ---
+URL: https://github.com/lukegehron/NLP-to-3DBuildings
+Is GitHub URL: True
+Is Devpost URL: False
+Title: D-AI-LOG
+Award: No Award Found
+Summary: This project demonstrates how to create a FastAPI-based API that interacts with an OpenAI assistant. The API allows you to retrieve the assistant, send messages, and receive responses, all using OpenAI’s Assistant and Thread APIs. It receives instructions to generate a building and returns the building description in a JSON format.
+------------------------------
+
+--- Project 7 ---
+URL: https://github.com/v-machine/Nolli-Cannolli
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Nolli Cannolli
+Award: No Award Found
+Summary: N-C is a project that fine-tunes a diffusion model on Nolli maps to easily generate baseline geometry with diverse urban form. The model creates images that hybridize the urban fabric from any city and can be adapted to a specific site boundary. These images feed into a Grasshopper script to generate 3d massing with customizable density.
+------------------------------
+
+--- Project 8 ---
+URL: https://github.com/Kyungho0511/3d-scan-with-spatial-analysis/tree/ms_pythonCode
+Is GitHub URL: True
+Is Devpost URL: False
+Title: From AEC to your HOME!
+Award: No Award Found
+Summary: Tools for preprocessing point clouds for analysis in Grasshopper using Ladybug and for web visualization with React and Three.js. The preprocessing pipeline cleans, transforms, and prepares spatial data, making it compatible with computational design workflows and interactive 3D visualization.
+------------------------------
+
+--- Project 9 ---
+URL: https://github.com/jacksonjunelee/AEC_Hackathon_qrkiller
+Is GitHub URL: True
+Is Devpost URL: False
+Title: IMPRINT
+Award: No Award Found
+Summary: The "Imprint" project presents a solution to replace QR codes with embedded, design-integrated visual links. Criticizing QR codes as disruptive and unreadable, it utilizes computer vision and image segmentation across platforms like web frontends, device frontends, and a Revit add-in to embed information directly within images. By generating data embeddings from processed images and employing techniques like image augmentation and feature extraction, Imprint enables drawings and photos to function as interactive, linkable elements—eliminating the need for traditional QR codes.
+------------------------------
+
+--- Project 10 ---
+URL: https://github.com/SHL-Digital-Practice/eq-backend
+Is GitHub URL: True
+Is Devpost URL: False
+Title: EQUALIZER
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 11 ---
+URL: https://github.com/ssajedi/FAM-JAM
+Is GitHub URL: True
+Is Devpost URL: False
+Title: FAM JAM
+Award: BEST OVERALL HACK:
+Summary: FAM JAM is a Revit Plugin developed during the 2024 AECTech Hackathon. We created a solution aimed at simplifying specification sheet management for Revit, targeting architectural workflows. Fam Jam allows users to seamlessly integrate Revit families with specification sheets, addressing a common bottleneck by turning families into specs, making the process more intuitive and efficient.
+------------------------------
+
+--- Project 12 ---
+URL: https://github.com/CruisingCtrl/AECroom107
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Auto Park
+Award: No Award Found
+Summary: Auto Park is a study that aims to streamline the parking lot design process by automating 3D model generation using client-provided 2D data.
+------------------------------
+
+--- Project 13 ---
+URL: https://github.com/AGranosik/TheCanvas
+Is GitHub URL: True
+Is Devpost URL: False
+Title: C
+Award: BEST OVERALL HACK:
+Summary: A sharable analysis application where designers push models and analysis from RHINO Software to Speckle. Speckle's new Automate picks up the model for further analysis and then the designer can browse, inspect and share direct links with stakeholders the results on a simple web page, no login required.
+------------------------------
+
+--- Project 14 ---
+URL: https://github.com/EdShapeDiver/CoffeeBridges
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Bridges for Coffee
+Award: BEST COLLABORATIVE HACK:
+Summary: From just 2 points on a map to a 3d-printable bridge concept with design and production models, AI-enabled rendering and documentation in PDF. All so that you can get to your morning coffee faster
+------------------------------
+
+--- Project 15 ---
+URL: https://github.com/peng-an-chen/aectech-hackathon-2024-tag-it
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Tag It
+Award: BEST OPEN SOURCE HACK:
+Summary: Real time markups from PDF to BIM. Improving markups and collaboration.
+------------------------------
+
+--- Project 16 ---
+URL: https://github.com/viktor-platform/aectech-spain-1
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Open BID
+Award: No Award Found
+Summary: A marketplace that clients and designers can upload their projects, and receive back transparent cost bidding from multiple suppliers, specific for that particular building part or contract, and review it within their design model.
+------------------------------
+
+--- Project 17 ---
+URL: https://github.com/shapediver/SausageDog_AECTechBarcelona2024
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Sausage Dog
+Award: No Award Found
+Summary: Simple web tool for running multiobjective optimization on GH models of a hot dog. Ability to dynamically plug-in a complex models to the web solver with segregation of the Design Space from the GA-Solver (cloud based) and integration of an external NSGA-II library into Shapediver AppBuilder.
+------------------------------
+
+--- Project 18 ---
+URL: https://github.com/sergiomorph/Geocoris
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Geocoris
+Award: No Award Found
+Summary: Bi-directional Unity (Meta Quest 3) - Rhino + Grasshopper connection. Provide a real time tool, based on augmented reality, for 3D sketching and previewing scalable parametric models while allowing computational designers to update and modify their real-time streamed Grasshopper definitions.
+------------------------------
+
+--- Project 19 ---
+URL: https://github.com/Licini/SmartTutorial
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Smart Tutorial
+Award: No Award Found
+Summary: A web app to make interactive, ‘intelligent’ tutorials based on your codebase and domain-specific knowledge. Write a minimal tutorial with general key points, add links to your codebase repo, and let SmartTutorial generate for you a complete and detailed tutorial based on your programming domain.
+------------------------------
+
+--- Project 20 ---
+URL: https://github.com/maxdumas/aectech-hackathon
+Is GitHub URL: True
+Is Devpost URL: False
+Title: All The Way Down
+Award: BEST OVERALL HACK:
+Summary: AllTheWayDown allows for managing dependencies within design workflows, which decreases length of time between design iterations, introduces Git-based version control, and eliminates discrepancies between different stages of design. Initially, AllTheWayDown works for Grasshopper script graphs and Rhino models. Future iterations will expand to other design tools and data inputs.
+------------------------------
+
+--- Project 21 ---
+URL: https://github.com/rhino-anywhere
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Rhino Anywhere
+Award: BEST COLLABORATIVE HACK:
+Summary: Rhino Anywhere is a framework that enables high definition streaming of a Rhino Model Viewport to the web. This allows you to reskin and interact with Rhino in any way you desire, whilst still working in the native Rhino Environment. You can create specific command sets for users.
+------------------------------
+
+--- Project 22 ---
+URL: https://github.com/TeamZombies/furne_frontend
+Is GitHub URL: True
+Is Devpost URL: False
+Title: FURN-E
+Award: BEST OPEN SOURCE HACK:
+Summary: This Vue.js application uses the OpenAI API to generate images based on a user-provided description and presents the generated images for selection. Additionally, it displays product options based on those generated images.
+------------------------------
+
+--- Project 23 ---
+URL: https://github.com/ssajedi/SAiF-GPT
+Is GitHub URL: True
+Is Devpost URL: False
+Title: SAiF-GPT
+Award: No Award Found
+Summary: SAiF-GPT aims to provide a solution for using Chat GPT in a secure and compliant manner, even when dealing with sensitive information. To ensure that corporate policies and NDAs are respected, the code and process automate entity detection and anonymization by replacing them with analogous values. The end goal is to allow AEC industry to use AI technology like ChatGPT for document analysis while protecting confidential data.
+------------------------------
+
+--- Project 24 ---
+URL: https://github.com/SHL-Digital-Practice/the-boring-labels
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Boring
+Award: No Award Found
+Summary: Smart Real-time Naming for Your Spaces
+------------------------------
+
+--- Project 25 ---
+URL: https://github.com/czwangxtt/AEC-Hack
+Is GitHub URL: True
+Is Devpost URL: False
+Title: AECademy
+Award: No Award Found
+Summary: A Sketch-Based Content Retrieval System, an innovative search engine that allows users to use sketches to search for relevant content within a digital database. It is designed to interpret the attributes of the sketched input and provide results such as PDF documents, 3D models, and detailed text descriptions that closely match the sketch.
+------------------------------
+
+--- Project 26 ---
+URL: https://github.com/PickardChilton/XRVZ/tree/main
+Is GitHub URL: True
+Is Devpost URL: False
+Title: XRVZ
+Award: No Award Found
+Summary: Open source WebXR viewer that works on any WebXR-enabled device running in an immersive model viewer, plugging into analysis models like Forma, Hypar, or Viktor for heightened understanding of data
+------------------------------
+
+--- Project 27 ---
+URL: https://github.com/snabela/AECTech2023 
+Is GitHub URL: True
+Is Devpost URL: False
+Title: COLLAB
+Award: No Award Found
+Summary: This hackathon leverages a diverse range of tools to create a interactive structural optimization and review web applet built in Viktor.
+------------------------------
+
+--- Project 28 ---
+URL: https://github.com/EZ-Script/EZRX-Scripting
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Ez.Rx
+Award: No Award Found
+Summary: EZRX is a plug-in for Rhino that helps a user use Chat GPT to create scripted Grasshopper nodes.
+------------------------------
+
+--- Project 29 ---
+URL: https://github.com/jackDang2803/FindIt
+Is GitHub URL: True
+Is Devpost URL: False
+Title: FindIT
+Award: No Award Found
+Summary: Forestry Identification and Navigation forDigital Imaging Transfer
+------------------------------
+
+--- Project 30 ---
+URL: https://github.com/phzx3691/WasteD-Image-Labeling
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Wasted
+Award: No Award Found
+Summary: Unlock value in existing end of service buildings. Use Reality Capture, AI and Parametric Design to define value, repurpose, and reuse.
+------------------------------
+
+--- Project 31 ---
+URL: https://github.com/RolandoV/RAMit
+Is GitHub URL: True
+Is Devpost URL: False
+Title: RAMit
+Award: No Award Found
+Summary: Revit to Ram Concept Interoperability
+------------------------------
+
+--- Project 32 ---
+URL: https://github.com/enmerk4r/GHPT
+Is GitHub URL: True
+Is Devpost URL: False
+Title: GhPT
+Award: BEST OVERALL HACK:
+Summary: This project sets out to find a way to leverage the power of ChatGPT to create Grasshopper definitions.
+------------------------------
+
+--- Project 33 ---
+URL: https://github.com/chinsishe/carbonhacker
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Carbon Hacker
+Award: BEST COLLABORATIVE HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 34 ---
+URL: https://github.com/kcpgilbert/HeatIslandHero
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Heat Island Hero
+Award: BEST OVERALL HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 35 ---
+URL: https://github.com/mirahx24/AECTech-Hackathon-ClimateCanvas
+Is GitHub URL: True
+Is Devpost URL: False
+Title: C-Canvas
+Award: BEST COLLABORATIVE HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 36 ---
+URL: https://github.com/sophXmoore1/snapCycle
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Snap Cycle
+Award: MOST SUSTAINABLE HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 37 ---
+URL: https://github.com/AntonioWritesCode/CarbonEater
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Sustainable Collaborators
+Award: No Award Found
+Summary: Read structural template image and optimize carbon output.
+------------------------------
+
+--- Project 38 ---
+URL: https://github.com/clicketyclackety/Crash
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Crash!
+Award: BEST OVERALL HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 39 ---
+URL: https://github.com/pedrocortesark/dreamhopper
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Dreamhopper
+Award: BEST OPEN SOURCE HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 40 ---
+URL: https://github.com/vimaec/difference-engine
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Difference Machine
+Award: No Award Found
+Summary: Calculating differences between BIM models
+------------------------------
+
+--- Project 41 ---
+URL: https://github.com/just-ajs/DevHops
+Is GitHub URL: True
+Is Devpost URL: False
+Title: DevHops
+Award: No Award Found
+Summary: Visual programming interface with kanban for project management
+------------------------------
+
+--- Project 42 ---
+URL: https://github.com/EmilPoulsen/ConfigAR.App
+Is GitHub URL: True
+Is Devpost URL: False
+Title: ConfigAR
+Award: No Award Found
+Summary: Connecting augmented reality with the super powers of parametric design and Grasshopper. Making it possible to visualize configurable designs in the real world using nothing else but your phone.
+------------------------------
+
+--- Project 43 ---
+URL: https://github.com/EmptyBox-Design/project-vibe
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Project-Vibe
+Award: No Award Found
+Summary: Project-Vibe allows users to query anywhere in NYC to find what businesses are walking distance from the site.
+------------------------------
+
+--- Project 44 ---
+URL: https://github.com/simpleSketche/GraFix
+Is GitHub URL: True
+Is Devpost URL: False
+Title: GraFix
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 45 ---
+URL: https://github.com/xyang920/Seism-sim.git
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Seism-Sim
+Award: No Award Found
+Summary: Using Unity and C# to develop a program to visualize game-effect building's time history response under an earthquake curve.
+------------------------------
+
+--- Project 46 ---
+URL: https://github.com/enmerk4r/pixeling
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Pixeling
+Award: BEST OPEN SOURCE HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 47 ---
+URL: https://github.com/MattBramante/BestFitAECHackAThon2021
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Best Fit
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 48 ---
+URL: https://github.com/amitlzkpa/ar-points
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Spatial Scheduler
+Award: BEST OVERALL HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 49 ---
+URL: https://github.com/enmerk4r/Bonobo
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Bonobo
+Award: BEST OPEN SOURCE HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 50 ---
+URL: https://github.com/EmilPoulsen/Hackuble
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Hackuble
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 51 ---
+URL: https://github.com/markhorgan/ganplan-webapp
+Is GitHub URL: True
+Is Devpost URL: False
+Title: No Title Found
+Award: BEST OPEN SOURCE HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 52 ---
+URL: https://github.com/TheodoreGalanos/Layout5
+Is GitHub URL: True
+Is Devpost URL: False
+Title: No Title Found
+Award: BEST COLLABORATIVE HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 53 ---
+URL: https://github.com/gener8-io/gener8
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Gener8.io
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 54 ---
+URL: https://github.com/enmerk4r/SmokingGAN
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Smoking GAN
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 55 ---
+URL: https://github.com/djsiroky/aectech2019-sketchto3d-frontend
+Is GitHub URL: True
+Is Devpost URL: False
+Title: SketchGAN
+Award: BEST OVERALL HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 56 ---
+URL: https://github.com/cdriesler/building-ballot
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Building Ballot
+Award: BEST COLLABORATION:
+Summary: No Summary Found
+------------------------------
+
+--- Project 57 ---
+URL: https://github.com/oliveregreen/regular
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Regular Espressos
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 58 ---
+URL: https://github.com/nicoazel/arcrhino
+Is GitHub URL: True
+Is Devpost URL: False
+Title: ArcRhino
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 59 ---
+URL: https://github.com/preynoldson/punchboss
+Is GitHub URL: True
+Is Devpost URL: False
+Title: PunchBoss
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 60 ---
+URL: https://github.com/LelandCurtis/daylighting-design-space
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Null Stack
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 61 ---
+URL: https://github.com/nadya/mechahopper
+Is GitHub URL: True
+Is Devpost URL: False
+Title: MECHAHOPPER
+Award: BEST OVERALL HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 62 ---
+URL: https://github.com/Brandoncyu/aechackathon2019
+Is GitHub URL: True
+Is Devpost URL: False
+Title: GitHub 1
+Award: BEST OPEN SOURCE: Stroll (
+Summary: No Summary Found
+------------------------------
+
+--- Project 63 ---
+URL: https://devpost.com/software/eagle
+Is GitHub URL: False
+Is Devpost URL: True
+Title: Eagle
+Award: BEST COLLABORATION:
+Summary: No Summary Found
+------------------------------
+
+--- Project 64 ---
+URL: https://github.com/dalefugier/RealDrawings
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Layout Hawk
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 65 ---
+URL: https://github.com/pearswj/damagedogs
+Is GitHub URL: True
+Is Devpost URL: False
+Title: DamageDogs
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 66 ---
+URL: https://github.com/RESThopper
+Is GitHub URL: True
+Is Devpost URL: False
+Title: RESThopper
+Award: BEST OVERALL HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 67 ---
+URL: https://github.com/alexzhou007/VIF
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Verify in Field (VIF)
+Award: BEST OPEN SOURCE:
+Summary: No Summary Found
+------------------------------
+
+--- Project 68 ---
+URL: https://github.com/mitevpi/thesaurus
+Is GitHub URL: True
+Is Devpost URL: False
+Title: theSAURUS
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 69 ---
+URL: https://github.com/Crashnorun/GoRhinoGo
+Is GitHub URL: True
+Is Devpost URL: False
+Title: GoRhinoGo
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 70 ---
+URL: https://github.com/amitlzkpa/SneakyCat
+Is GitHub URL: True
+Is Devpost URL: False
+Title: SneakyCat
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 71 ---
+URL: https://github.com/eertugrul/RhinoInsideSAP
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Stridulator
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 72 ---
+URL: https://github.com/MingboPeng/AECTech18_RhinoInRevit/
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Take ‘n Bake
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 73 ---
+URL: https://github.com/hanshenSun/grassFlow
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Grassflow
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 74 ---
+URL: https://github.com/mm-wang/metashape
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Metashape
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 75 ---
+URL: https://github.com/EmilPoulsen/K2Engineering
+Is GitHub URL: True
+Is Devpost URL: False
+Title: K2Engineering
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 76 ---
+URL: https://github.com/jlankitus/Dynamidi
+Is GitHub URL: True
+Is Devpost URL: False
+Title: DynaMidi
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 77 ---
+URL: https://github.com/interopxyz/Aviary
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Aviary
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 78 ---
+URL: https://github.com/RevitAirflowDesigner/RevitAirflowDesigner
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Duct People
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 79 ---
+URL: https://github.com/ladybug-tools/honeybee-server
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Honeybee Server
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 80 ---
+URL: https://github.com/mkero-tt/Revilations
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Revilations
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 81 ---
+URL: https://github.com/anddoyoueverfeel/tthack2017
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Shuffle
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 82 ---
+URL: https://aectechhack2017.devpost.com/submissions/79989-airflownetowrk_visualizer
+Is GitHub URL: False
+Is Devpost URL: True
+Title: Airflow Network Visualizer
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 83 ---
+URL: https://github.com/ladybug-tools/ladybugvizzz
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Ladybug Vizzz!
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 84 ---
+URL: https://devpost.com/software/revit-dynamo-json
+Is GitHub URL: False
+Is Devpost URL: True
+Title: Revit Dynamo JSON
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 85 ---
+URL: https://devpost.com/software/tango-go
+Is GitHub URL: False
+Is Devpost URL: True
+Title: Tango Go
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 86 ---
+URL: https://devpost.com/software/design-generator-82ulo4
+Is GitHub URL: False
+Is Devpost URL: True
+Title: Design Generator
+Award: 
+Summary: No Summary Found
+------------------------------
+
+--- Project 87 ---
+URL: https://github.com/sasakiassociates/revit-3d-print
+Is GitHub URL: True
+Is Devpost URL: False
+Title: 3D Print and Revit
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 88 ---
+URL: https://devpost.com/software/benmap-ey817q
+Is GitHub URL: False
+Is Devpost URL: True
+Title: BEnMap
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
+
+--- Project 89 ---
+URL: https://github.com/DOCQR/docqr.github.io
+Is GitHub URL: True
+Is Devpost URL: False
+Title: docQR
+Award: BEST OVERALL HACK:
+Summary: No Summary Found
+------------------------------
+
+--- Project 90 ---
+URL: https://github.com/HydraShare/hydra
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Hydra
+Award: BEST HACK USING EXISTING APPLICATIONS:
+Summary: No Summary Found
+------------------------------
+
+--- Project 91 ---
+URL: https://github.com/pix3lot/Slackit
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Slackit
+Award: BEST COLLABORATION/OPEN SOURCE:
+Summary: No Summary Found
+------------------------------
+
+--- Project 92 ---
+URL: https://github.com/danielinocente/application
+Is GitHub URL: True
+Is Devpost URL: False
+Title: Skinventor
+Award: No Award Found
+Summary: No Summary Found
+------------------------------
